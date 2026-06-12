@@ -1,0 +1,6770 @@
+[
+  {
+    "athlete_id": "6454",
+    "profile_slug": "a-janeshowri-devi-1986-01-01",
+    "name": "A JANESHOWRI Devi",
+    "first_name": "Devi",
+    "last_name": "A JANESHOWRI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1986-01-01",
+    "age": 40,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16405",
+    "profile_slug": "a.s.r.k.-yadav-2002-06-05",
+    "name": "A.S.R.K. YADAV",
+    "first_name": "A.S.R.K.",
+    "last_name": "YADAV",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-06-05",
+    "age": 24,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15975",
+    "profile_slug": "adak-sukarna-2003-01-10",
+    "name": "ADAK Sukarna",
+    "first_name": "Sukarna",
+    "last_name": "ADAK",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-01-10",
+    "age": 23,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19821",
+    "profile_slug": "aher-mukund-santosh-2003-07-04",
+    "name": "AHER Mukund Santosh",
+    "first_name": "AHER Mukund",
+    "last_name": "Santosh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-07-04",
+    "age": 22,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8525",
+    "profile_slug": "amalapurapu-siromani-1993-10-10",
+    "name": "AMALAPURAPU Siromani",
+    "first_name": "Siromani",
+    "last_name": "AMALAPURAPU",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-10-10",
+    "age": 32,
+    "current_category": "+75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9895",
+    "profile_slug": "amandeep-kaur-1989-08-07",
+    "name": "AMANDEEP Kaur",
+    "first_name": "Kaur",
+    "last_name": "AMANDEEP",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-08-07",
+    "age": 36,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9679",
+    "profile_slug": "amanpreet-kaur-1988-04-17",
+    "name": "AMANPREET Kaur",
+    "first_name": "Kaur",
+    "last_name": "AMANPREET",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1988-04-17",
+    "age": 38,
+    "current_category": "+75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18589",
+    "profile_slug": "amritha-pallimakkal-suni-2007-01-16",
+    "name": "AMRITHA Pallimakkal Suni",
+    "first_name": "AMRITHA Pallimakkal",
+    "last_name": "Suni",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-01-16",
+    "age": 19,
+    "current_category": "86 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "4383",
+    "profile_slug": "anand-a.-1993-03-15",
+    "name": "ANAND A.",
+    "first_name": "ANAND",
+    "last_name": "A.",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-03-15",
+    "age": 33,
+    "current_category": "50 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15276",
+    "profile_slug": "anjali-joshi-2000-07-15",
+    "name": "ANJALI Joshi",
+    "first_name": "Joshi",
+    "last_name": "ANJALI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-07-15",
+    "age": 25,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18235",
+    "profile_slug": "ankita-2006-04-10",
+    "name": "ANKITA",
+    "first_name": "ANKITA",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-04-10",
+    "age": 20,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14445",
+    "profile_slug": "arambam-anju-devi-2001-07-18",
+    "name": "ARAMBAM Anju Devi",
+    "first_name": "ARAMBAM Anju",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-07-18",
+    "age": 24,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "20553",
+    "profile_slug": "ariunbold-anand-1999-08-01",
+    "name": "ARIUNBOLD Anand",
+    "first_name": "Anand",
+    "last_name": "ARIUNBOLD",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-08-01",
+    "age": 26,
+    "current_category": "73 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21178",
+    "profile_slug": "arjunan-ruthreshwar-2004-08-22",
+    "name": "ARJUNAN Ruthreshwar",
+    "first_name": "Ruthreshwar",
+    "last_name": "ARJUNAN",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-08-22",
+    "age": 21,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5502",
+    "profile_slug": "arya-sunny-1994-02-16",
+    "name": "ARYA Sunny",
+    "first_name": "Sunny",
+    "last_name": "ARYA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-02-16",
+    "age": 32,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8895",
+    "profile_slug": "ashutosh-singh-1995-12-17",
+    "name": "ASHUTOSH Singh",
+    "first_name": "Singh",
+    "last_name": "ASHUTOSH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-12-17",
+    "age": 30,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15293",
+    "profile_slug": "ashwini-rajendra-malage-1998-08-24",
+    "name": "ASHWINI Rajendra Malage",
+    "first_name": "ASHWINI Rajendra",
+    "last_name": "Malage",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-08-24",
+    "age": 27,
+    "current_category": "+90 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8427",
+    "profile_slug": "atom-indubala-chanu-1997-04-02",
+    "name": "ATOM Indubala Chanu",
+    "first_name": "ATOM Indubala",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-04-02",
+    "age": 29,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6062",
+    "profile_slug": "atom-sandhya-rani-devi-1980-04-05",
+    "name": "ATOM Sandhya Rani Devi",
+    "first_name": "ATOM Sandhya Rani",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-04-05",
+    "age": 46,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18245",
+    "profile_slug": "b-venkata-krishna-2006-12-17",
+    "name": "B VENKATA Krishna",
+    "first_name": "Krishna",
+    "last_name": "B VENKATA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-12-17",
+    "age": 19,
+    "current_category": "73 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19837",
+    "profile_slug": "babu-valluri-ajaya-2004-11-25",
+    "name": "BABU Valluri Ajaya",
+    "first_name": "BABU Valluri",
+    "last_name": "Ajaya",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-11-25",
+    "age": 21,
+    "current_category": "79 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10485",
+    "profile_slug": "bal-karanbir-singh-1997-08-18",
+    "name": "BAL Karanbir Singh",
+    "first_name": "BAL Karanbir",
+    "last_name": "Singh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-08-18",
+    "age": 28,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12761",
+    "profile_slug": "bangaru-usha-1991-03-30",
+    "name": "BANGARU Usha",
+    "first_name": "Usha",
+    "last_name": "BANGARU",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-03-30",
+    "age": 35,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12762",
+    "profile_slug": "baseest-krishnakala-2000-05-15",
+    "name": "BASEEST Krishnakala",
+    "first_name": "Krishnakala",
+    "last_name": "BASEEST",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-05-15",
+    "age": 26,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19899",
+    "profile_slug": "basheer-lal-sk-2004-05-13",
+    "name": "BASHEER Lal Sk",
+    "first_name": "BASHEER Lal",
+    "last_name": "Sk",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-05-13",
+    "age": 22,
+    "current_category": "89 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "192",
+    "profile_slug": "batta-vicky-1981-04-09",
+    "name": "BATTA Vicky",
+    "first_name": "Vicky",
+    "last_name": "BATTA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1981-04-09",
+    "age": 45,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2835",
+    "profile_slug": "behera-sonia-1993-01-24",
+    "name": "BEHERA Sonia",
+    "first_name": "Sonia",
+    "last_name": "BEHERA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-01-24",
+    "age": 33,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14570",
+    "profile_slug": "benipal-simranjeet-s-1992-08-03",
+    "name": "BENIPAL Simranjeet S",
+    "first_name": "BENIPAL Simranjeet",
+    "last_name": "S",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-08-03",
+    "age": 33,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19932",
+    "profile_slug": "bessa-kesav-2005-12-17",
+    "name": "BESSA Kesav",
+    "first_name": "Kesav",
+    "last_name": "BESSA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-12-17",
+    "age": 20,
+    "current_category": "+109 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16417",
+    "profile_slug": "bhaktaram-desti-2002-06-14",
+    "name": "BHAKTARAM DESTI",
+    "first_name": "BHAKTARAM",
+    "last_name": "DESTI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-06-14",
+    "age": 23,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19874",
+    "profile_slug": "bharali-bedabrat-2007-03-19",
+    "name": "BHARALI Bedabrat",
+    "first_name": "Bedabrat",
+    "last_name": "BHARALI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-03-19",
+    "age": 19,
+    "current_category": "79 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "20988",
+    "profile_slug": "bhargavi-b-2009-02-19",
+    "name": "BHARGAVI B",
+    "first_name": "BHARGAVI",
+    "last_name": "B",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-02-19",
+    "age": 17,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21700",
+    "profile_slug": "bhargavi-bellana-2009-02-19",
+    "name": "BHARGAVI Bellana",
+    "first_name": "Bellana",
+    "last_name": "BHARGAVI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-02-19",
+    "age": 17,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21633",
+    "profile_slug": "bhavani-reddy-2008-03-20",
+    "name": "BHAVANI Reddy",
+    "first_name": "Reddy",
+    "last_name": "BHAVANI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-03-20",
+    "age": 18,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21969",
+    "profile_slug": "bhawana-bhawana-2005-07-20",
+    "name": "BHAWANA Bhawana",
+    "first_name": "Bhawana",
+    "last_name": "BHAWANA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-07-20",
+    "age": 20,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22350",
+    "profile_slug": "bhawna-bhawna-2005-07-20",
+    "name": "BHAWNA Bhawna",
+    "first_name": "Bhawna",
+    "last_name": "BHAWNA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-07-20",
+    "age": 20,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21966",
+    "profile_slug": "bhoi-bidusmita-2005-07-31",
+    "name": "BHOI Bidusmita",
+    "first_name": "Bidusmita",
+    "last_name": "BHOI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-07-31",
+    "age": 20,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "20971",
+    "profile_slug": "bhoi-preetismita-2008-11-14",
+    "name": "BHOI Preetismita",
+    "first_name": "Preetismita",
+    "last_name": "BHOI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-11-14",
+    "age": 17,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22611",
+    "profile_slug": "biswas-rajyashree-2006-10-03",
+    "name": "BISWAS Rajyashree",
+    "first_name": "Rajyashree",
+    "last_name": "BISWAS",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-10-03",
+    "age": 19,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16400",
+    "profile_slug": "borah-bornali-2000-07-31",
+    "name": "BORAH Bornali",
+    "first_name": "Bornali",
+    "last_name": "BORAH",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-07-31",
+    "age": 25,
+    "current_category": "45 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18585",
+    "profile_slug": "c-harshika-2007-10-31",
+    "name": "C Harshika",
+    "first_name": "Harshika",
+    "last_name": "C",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-10-31",
+    "age": 18,
+    "current_category": "64 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18167",
+    "profile_slug": "chamunda-mansi-2007-01-04",
+    "name": "CHAMUNDA Mansi",
+    "first_name": "Mansi",
+    "last_name": "CHAMUNDA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-01-04",
+    "age": 19,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13640",
+    "profile_slug": "chanambam-rishikanta-singh-1998-07-05",
+    "name": "CHANAMBAM Rishikanta Singh",
+    "first_name": "CHANAMBAM Rishikanta",
+    "last_name": "Singh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-07-05",
+    "age": 27,
+    "current_category": "60 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6220",
+    "profile_slug": "changmai-papul--1994-01-01",
+    "name": "CHANGMAI Papul",
+    "first_name": "Papul",
+    "last_name": "CHANGMAI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-01-01",
+    "age": 32,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "1627",
+    "profile_slug": "chanu-ngangbam-soniya-1980-02-15",
+    "name": "CHANU NGANGBAM Soniya",
+    "first_name": "Soniya",
+    "last_name": "CHANU NGANGBAM",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-02-15",
+    "age": 46,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "591",
+    "profile_slug": "chanu-sanamacha-thingbaijani-1978-10-02",
+    "name": "CHANU Sanamacha Thingbaijani",
+    "first_name": "CHANU Sanamacha",
+    "last_name": "Thingbaijani",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1978-10-02",
+    "age": 47,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14104",
+    "profile_slug": "chanu-yumnam-shilheinganbi-2000-04-01",
+    "name": "CHANU Yumnam Shilheinganbi",
+    "first_name": "CHANU Yumnam",
+    "last_name": "Shilheinganbi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-04-01",
+    "age": 26,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22539",
+    "profile_slug": "charu-pesi-2002-09-30",
+    "name": "CHARU Pesi",
+    "first_name": "Pesi",
+    "last_name": "CHARU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-09-30",
+    "age": 23,
+    "current_category": "65 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21560",
+    "profile_slug": "chaudhary-parv-2008-07-10",
+    "name": "CHAUDHARY Parv",
+    "first_name": "Parv",
+    "last_name": "CHAUDHARY",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-07-10",
+    "age": 17,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22345",
+    "profile_slug": "chaudhary-tushar-2008-12-07",
+    "name": "CHAUDHARY Tushar",
+    "first_name": "Tushar",
+    "last_name": "CHAUDHARY",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-12-07",
+    "age": 17,
+    "current_category": "110 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10406",
+    "profile_slug": "chavan-mohini-daryappa-1999-05-20",
+    "name": "CHAVAN Mohini Daryappa",
+    "first_name": "CHAVAN Mohini",
+    "last_name": "Daryappa",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-05-20",
+    "age": 27,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11566",
+    "profile_slug": "chavan-mohini-daryappa-1999-05-20",
+    "name": "CHAVAN Mohini Daryappa",
+    "first_name": "CHAVAN Mohini",
+    "last_name": "Daryappa",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-05-20",
+    "age": 27,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19880",
+    "profile_slug": "chelsi-2006-03-25",
+    "name": "CHELSI",
+    "first_name": "CHELSI",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-03-25",
+    "age": 20,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7591",
+    "profile_slug": "chetia-apurba-1994-05-06",
+    "name": "CHETIA Apurba",
+    "first_name": "Apurba",
+    "last_name": "CHETIA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-05-06",
+    "age": 32,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8136",
+    "profile_slug": "chinchwade-ranjit-kalgonda-1991-04-28",
+    "name": "CHINCHWADE Ranjit Kalgonda",
+    "first_name": "CHINCHWADE Ranjit",
+    "last_name": "Kalgonda",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-04-28",
+    "age": 35,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16897",
+    "profile_slug": "chingakham-nirmala-devi-2001-06-19",
+    "name": "CHINGAKHAM Nirmala Devi",
+    "first_name": "CHINGAKHAM Nirmala",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-06-19",
+    "age": 24,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6081",
+    "profile_slug": "chitradurga-padma-raju-sudhir-kumar-1979-04-13",
+    "name": "CHITRADURGA PADMA RAJU Sudhir Kumar",
+    "first_name": "CHITRADURGA PADMA RAJU Sudhir",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1979-04-13",
+    "age": 47,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19913",
+    "profile_slug": "chukka-sri-lakshmi-2004-10-19",
+    "name": "CHUKKA Sri Lakshmi",
+    "first_name": "CHUKKA Sri",
+    "last_name": "Lakshmi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-10-19",
+    "age": 21,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13432",
+    "profile_slug": "dalabehera-jhilli-1999-02-03",
+    "name": "DALABEHERA Jhilli",
+    "first_name": "Jhilli",
+    "last_name": "DALABEHERA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-02-03",
+    "age": 27,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9212",
+    "profile_slug": "dalal-poonam-1996-02-12",
+    "name": "DALAL Poonam",
+    "first_name": "Poonam",
+    "last_name": "DALAL",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-02-12",
+    "age": 30,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3002",
+    "profile_slug": "daljit-kaur-1992-08-31",
+    "name": "DALJIT Kaur",
+    "first_name": "Kaur",
+    "last_name": "DALJIT",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-08-31",
+    "age": 33,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18195",
+    "profile_slug": "dalvi-soumya-sunil-2005-08-18",
+    "name": "DALVI Soumya Sunil",
+    "first_name": "DALVI Soumya",
+    "last_name": "Sunil",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-08-18",
+    "age": 20,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22342",
+    "profile_slug": "das-hrundananda-2007-06-09",
+    "name": "DAS Hrundananda",
+    "first_name": "Hrundananda",
+    "last_name": "DAS",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-06-09",
+    "age": 19,
+    "current_category": "88 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7584",
+    "profile_slug": "das-minati-kumari-1994-03-05",
+    "name": "DAS Minati Kumari",
+    "first_name": "DAS Minati",
+    "last_name": "Kumari",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-03-05",
+    "age": 32,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13424",
+    "profile_slug": "das-shrabani-2002-03-16",
+    "name": "DAS Shrabani",
+    "first_name": "Shrabani",
+    "last_name": "DAS",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-03-16",
+    "age": 24,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16395",
+    "profile_slug": "davinder-kaur-1995-03-11",
+    "name": "DAVINDER KAUR",
+    "first_name": "DAVINDER",
+    "last_name": "KAUR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-03-11",
+    "age": 31,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8508",
+    "profile_slug": "deepak-1995-12-10",
+    "name": "DEEPAK",
+    "first_name": "DEEPAK",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-12-10",
+    "age": 30,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9230",
+    "profile_slug": "deepak-lather-2000-03-25",
+    "name": "DEEPAK Lather",
+    "first_name": "Lather",
+    "last_name": "DEEPAK",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-03-25",
+    "age": 26,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18214",
+    "profile_slug": "degio-kampu-2006-03-26",
+    "name": "DEGIO Kampu",
+    "first_name": "Kampu",
+    "last_name": "DEGIO",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-03-26",
+    "age": 20,
+    "current_category": "67 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10100",
+    "profile_slug": "depak-lather-1996-01-01",
+    "name": "DEPAK Lather",
+    "first_name": "Lather",
+    "last_name": "DEPAK",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-01-01",
+    "age": 30,
+    "current_category": "50 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9226",
+    "profile_slug": "deru-jimjang-1998-10-01",
+    "name": "DERU Jimjang",
+    "first_name": "Jimjang",
+    "last_name": "DERU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-10-01",
+    "age": 27,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "1815",
+    "profile_slug": "devi-khoirom-sumati-1981-12-05",
+    "name": "DEVI Khoirom Sumati",
+    "first_name": "DEVI Khoirom",
+    "last_name": "Sumati",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1981-12-05",
+    "age": 44,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7623",
+    "profile_slug": "devi-lairenmayum-premeshwori-1984-12-11",
+    "name": "DEVI Lairenmayum Premeshwori",
+    "first_name": "DEVI Lairenmayum",
+    "last_name": "Premeshwori",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1984-12-11",
+    "age": 41,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6242",
+    "profile_slug": "devi-laishram-g.--1992-12-01",
+    "name": "DEVI Laishram G.",
+    "first_name": "DEVI Laishram",
+    "last_name": "G.",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-12-01",
+    "age": 33,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8484",
+    "profile_slug": "devi-laishram-monika-1983-03-01",
+    "name": "DEVI Laishram Monika",
+    "first_name": "DEVI Laishram",
+    "last_name": "Monika",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1983-03-01",
+    "age": 43,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3742",
+    "profile_slug": "devi-nansita-1974-01-01",
+    "name": "DEVI Nansita",
+    "first_name": "Nansita",
+    "last_name": "DEVI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1974-01-01",
+    "age": 52,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21905",
+    "profile_slug": "dewgarhiya-dharmajyoti-2009-02-07",
+    "name": "DEWGARHIYA Dharmajyoti",
+    "first_name": "Dharmajyoti",
+    "last_name": "DEWGARHIYA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-02-07",
+    "age": 17,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3225",
+    "profile_slug": "dey-sukhen-1989-03-28",
+    "name": "DEY Sukhen",
+    "first_name": "Sukhen",
+    "last_name": "DEY",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-03-28",
+    "age": 37,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19385",
+    "profile_slug": "dhone-asmita-2007-05-01",
+    "name": "DHONE Asmita",
+    "first_name": "Asmita",
+    "last_name": "DHONE",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-05-01",
+    "age": 19,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8458",
+    "profile_slug": "dilli-senthamizh-selvan-1987-06-26",
+    "name": "DILLI Senthamizh Selvan",
+    "first_name": "DILLI Senthamizh",
+    "last_name": "Selvan",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-06-26",
+    "age": 38,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22336",
+    "profile_slug": "doimari-hemanta-2007-01-07",
+    "name": "DOIMARI Hemanta",
+    "first_name": "Hemanta",
+    "last_name": "DOIMARI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-01-07",
+    "age": 19,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11749",
+    "profile_slug": "dongari-raviteja-1996-06-20",
+    "name": "DONGARI Raviteja",
+    "first_name": "Raviteja",
+    "last_name": "DONGARI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-06-20",
+    "age": 29,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3268",
+    "profile_slug": "dubey-gaurv-1990-10-12",
+    "name": "DUBEY Gaurv",
+    "first_name": "Gaurv",
+    "last_name": "DUBEY",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-10-12",
+    "age": 35,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11568",
+    "profile_slug": "dubey-prafull-kumar-1984-03-16",
+    "name": "DUBEY Prafull Kumar",
+    "first_name": "DUBEY Prafull",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1984-03-16",
+    "age": 42,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10550",
+    "profile_slug": "dutta-champak-1995-12-30",
+    "name": "DUTTA Champak",
+    "first_name": "Champak",
+    "last_name": "DUTTA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-12-30",
+    "age": 30,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15192",
+    "profile_slug": "epham-quasar-khanam-2001-03-25",
+    "name": "EPHAM Quasar Khanam",
+    "first_name": "EPHAM Quasar",
+    "last_name": "Khanam",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-03-25",
+    "age": 25,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8428",
+    "profile_slug": "erra-deexitha-1997-09-25",
+    "name": "ERRA Deexitha",
+    "first_name": "Deexitha",
+    "last_name": "ERRA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-09-25",
+    "age": 28,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9565",
+    "profile_slug": "fakade-meera-parshram-1994-04-12",
+    "name": "FAKADE Meera Parshram",
+    "first_name": "FAKADE Meera",
+    "last_name": "Parshram",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-04-12",
+    "age": 32,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9338",
+    "profile_slug": "gaikwad-akshay-bhagwan-1996-04-16",
+    "name": "GAIKWAD Akshay Bhagwan",
+    "first_name": "GAIKWAD Akshay",
+    "last_name": "Bhagwan",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-04-16",
+    "age": 30,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3221",
+    "profile_slug": "gaikwad-diksha-pradeep-1990-07-06",
+    "name": "GAIKWAD Diksha Pradeep",
+    "first_name": "GAIKWAD Diksha",
+    "last_name": "Pradeep",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-07-06",
+    "age": 35,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "191",
+    "profile_slug": "ganesan-veerabadran-1979-04-10",
+    "name": "GANESAN Veerabadran",
+    "first_name": "Veerabadran",
+    "last_name": "GANESAN",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1979-04-10",
+    "age": 47,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11750",
+    "profile_slug": "gantala-sindhu-1998-08-06",
+    "name": "GANTALA Sindhu",
+    "first_name": "Sindhu",
+    "last_name": "GANTALA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-08-06",
+    "age": 27,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5401",
+    "profile_slug": "gara-aruna-rani-1991-12-10",
+    "name": "GARA Aruna Rani",
+    "first_name": "GARA Aruna",
+    "last_name": "Rani",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-12-10",
+    "age": 34,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12763",
+    "profile_slug": "gara-lalitha-1998-09-08",
+    "name": "GARA Lalitha",
+    "first_name": "Lalitha",
+    "last_name": "GARA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-09-08",
+    "age": 27,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "1838",
+    "profile_slug": "geeta-rani-1981-09-16",
+    "name": "GEETA Rani",
+    "first_name": "Rani",
+    "last_name": "GEETA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1981-09-16",
+    "age": 44,
+    "current_category": "+75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3755",
+    "profile_slug": "ghagare-swapnil-babaso-1990-09-25",
+    "name": "GHAGARE Swapnil Babaso",
+    "first_name": "GHAGARE Swapnil",
+    "last_name": "Babaso",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-09-25",
+    "age": 35,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11351",
+    "profile_slug": "ghattamaneni-sai-revathi-1990-06-01",
+    "name": "GHATTAMANENI Sai Revathi",
+    "first_name": "GHATTAMANENI Sai",
+    "last_name": "Revathi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-06-01",
+    "age": 36,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7090",
+    "profile_slug": "gitanjali-devi-1980-01-01",
+    "name": "GITANJALI Devi",
+    "first_name": "Devi",
+    "last_name": "GITANJALI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-01-01",
+    "age": 46,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22354",
+    "profile_slug": "gogoi-abhinob-2009-08-31",
+    "name": "GOGOI Abhinob",
+    "first_name": "Abhinob",
+    "last_name": "GOGOI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-08-31",
+    "age": 16,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21964",
+    "profile_slug": "gogoi-aisangfa-2007-12-16",
+    "name": "GOGOI Aisangfa",
+    "first_name": "Aisangfa",
+    "last_name": "GOGOI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-12-16",
+    "age": 18,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22365",
+    "profile_slug": "gogoi-bhavna-2008-07-17",
+    "name": "GOGOI Bhavna",
+    "first_name": "Bhavna",
+    "last_name": "GOGOI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-07-17",
+    "age": 17,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22712",
+    "profile_slug": "gogoi-parishmita-2010-03-29",
+    "name": "GOGOI Parishmita",
+    "first_name": "Parishmita",
+    "last_name": "GOGOI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2010-03-29",
+    "age": 16,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15203",
+    "profile_slug": "gogoi-sidhanta-2004-04-08",
+    "name": "GOGOI Sidhanta",
+    "first_name": "Sidhanta",
+    "last_name": "GOGOI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-04-08",
+    "age": 22,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7614",
+    "profile_slug": "gogoi-sourav-1995-03-01",
+    "name": "GOGOI Sourav",
+    "first_name": "Sourav",
+    "last_name": "GOGOI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-03-01",
+    "age": 31,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19398",
+    "profile_slug": "golom-tinku-2006-05-12",
+    "name": "GOLOM Tinku",
+    "first_name": "Tinku",
+    "last_name": "GOLOM",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-05-12",
+    "age": 20,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12321",
+    "profile_slug": "gopal-anbarasu-1986-04-16",
+    "name": "GOPAL Anbarasu",
+    "first_name": "Anbarasu",
+    "last_name": "GOPAL",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1986-04-16",
+    "age": 40,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "1689",
+    "profile_slug": "govindan-elumalai-1984-03-20",
+    "name": "GOVINDAN Elumalai",
+    "first_name": "Elumalai",
+    "last_name": "GOVINDAN",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1984-03-20",
+    "age": 42,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22370",
+    "profile_slug": "guna-juhitha-2011-04-26",
+    "name": "GUNA Juhitha",
+    "first_name": "Juhitha",
+    "last_name": "GUNA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2011-04-26",
+    "age": 15,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11877",
+    "profile_slug": "gupta-pooja-1998-10-08",
+    "name": "GUPTA Pooja",
+    "first_name": "Pooja",
+    "last_name": "GUPTA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-10-08",
+    "age": 27,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9612",
+    "profile_slug": "gupta-vandna-1994-12-17",
+    "name": "GUPTA Vandna",
+    "first_name": "Vandna",
+    "last_name": "GUPTA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-12-17",
+    "age": 31,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13749",
+    "profile_slug": "gurbhinder-singh-1996-12-04",
+    "name": "GURBHINDER Singh",
+    "first_name": "Singh",
+    "last_name": "GURBHINDER",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-12-04",
+    "age": 29,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13120",
+    "profile_slug": "gurdeep-singh-1995-10-01",
+    "name": "GURDEEP Singh",
+    "first_name": "Singh",
+    "last_name": "GURDEEP",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-10-01",
+    "age": 30,
+    "current_category": "+109 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11569",
+    "profile_slug": "gurjeet-singh-1986-12-22",
+    "name": "GURJEET Singh",
+    "first_name": "Singh",
+    "last_name": "GURJEET",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1986-12-22",
+    "age": 39,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5453",
+    "profile_slug": "gurmail-singh-1991-03-23",
+    "name": "GURMAIL Singh",
+    "first_name": "Singh",
+    "last_name": "GURMAIL",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-03-23",
+    "age": 35,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3958",
+    "profile_slug": "gurpreet-singh-1980-06-28",
+    "name": "GURPREET Singh",
+    "first_name": "Singh",
+    "last_name": "GURPREET",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-06-28",
+    "age": 45,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10269",
+    "profile_slug": "gursale-dipali-dattatraya-1996-11-10",
+    "name": "GURSALE Dipali Dattatraya",
+    "first_name": "GURSALE Dipali",
+    "last_name": "Dattatraya",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-11-10",
+    "age": 29,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "17979",
+    "profile_slug": "guru-amarjit-1995-07-23",
+    "name": "GURU Amarjit",
+    "first_name": "Amarjit",
+    "last_name": "GURU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-07-23",
+    "age": 30,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13598",
+    "profile_slug": "gururaja-1992-08-15",
+    "name": "GURURAJA",
+    "first_name": "GURURAJA",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-08-15",
+    "age": 33,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8465",
+    "profile_slug": "halder-rakhi-1993-07-06",
+    "name": "HALDER Rakhi",
+    "first_name": "Rakhi",
+    "last_name": "HALDER",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-07-06",
+    "age": 32,
+    "current_category": "64 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11892",
+    "profile_slug": "hanagandi-rupa-mahadev-1998-05-22",
+    "name": "HANAGANDI Rupa Mahadev",
+    "first_name": "HANAGANDI Rupa",
+    "last_name": "Mahadev",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-05-22",
+    "age": 28,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19852",
+    "profile_slug": "harika-bellana-2007-08-10",
+    "name": "HARIKA Bellana",
+    "first_name": "Bellana",
+    "last_name": "HARIKA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-08-10",
+    "age": 18,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19879",
+    "profile_slug": "harini-ramadass-2006-06-02",
+    "name": "HARINI Ramadass",
+    "first_name": "Ramadass",
+    "last_name": "HARINI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-06-02",
+    "age": 20,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10522",
+    "profile_slug": "harshdeep-kaur-1994-08-25",
+    "name": "HARSHDEEP Kaur",
+    "first_name": "Kaur",
+    "last_name": "HARSHDEEP",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-08-25",
+    "age": 31,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19856",
+    "profile_slug": "harshika-carmega-vannan-2007-10-31",
+    "name": "HARSHIKA Carmega Vannan",
+    "first_name": "HARSHIKA Carmega",
+    "last_name": "Vannan",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-10-31",
+    "age": 18,
+    "current_category": "64 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "17520",
+    "profile_slug": "hazarika-popy-1998-12-08",
+    "name": "HAZARIKA Popy",
+    "first_name": "Popy",
+    "last_name": "HAZARIKA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-12-08",
+    "age": 27,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "20944",
+    "profile_slug": "hembrom-babulal-2007-07-10",
+    "name": "HEMBROM Babulal",
+    "first_name": "Babulal",
+    "last_name": "HEMBROM",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-07-10",
+    "age": 18,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7603",
+    "profile_slug": "hidam-shaya-devi-1980-01-02",
+    "name": "HIDAM Shaya Devi",
+    "first_name": "HIDAM Shaya",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-01-02",
+    "age": 46,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7857",
+    "profile_slug": "hijam-poireinganbi-chanu-1980-12-05",
+    "name": "HIJAM Poireinganbi Chanu",
+    "first_name": "HIJAM Poireinganbi",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-12-05",
+    "age": 45,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8530",
+    "profile_slug": "himanshu-kumar-chang-1992-01-15",
+    "name": "HIMANSHU Kumar Chang",
+    "first_name": "HIMANSHU Kumar",
+    "last_name": "Chang",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-01-15",
+    "age": 34,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12764",
+    "profile_slug": "hitesh-kumar-1997-09-12",
+    "name": "HITESH Kumar",
+    "first_name": "Kumar",
+    "last_name": "HITESH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-09-12",
+    "age": 28,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7238",
+    "profile_slug": "hussain-mohammad-jameer-1993-04-03",
+    "name": "HUSSAIN Mohammad Jameer",
+    "first_name": "HUSSAIN Mohammad",
+    "last_name": "Jameer",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-04-03",
+    "age": 33,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22358",
+    "profile_slug": "hussain-shah-2008-01-26",
+    "name": "HUSSAIN Shah",
+    "first_name": "Shah",
+    "last_name": "HUSSAIN",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-01-26",
+    "age": 18,
+    "current_category": "88 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15217",
+    "profile_slug": "jacob-vanlaltluanga-2002-02-17",
+    "name": "JACOB Vanlaltluanga",
+    "first_name": "Vanlaltluanga",
+    "last_name": "JACOB",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-02-17",
+    "age": 24,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7613",
+    "profile_slug": "jagdish-1994-08-11",
+    "name": "JAGDISH",
+    "first_name": "JAGDISH",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-08-11",
+    "age": 31,
+    "current_category": "96 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6793",
+    "profile_slug": "jakkala-jayamma-1983-01-01",
+    "name": "JAKKALA Jayamma",
+    "first_name": "Jayamma",
+    "last_name": "JAKKALA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1983-01-01",
+    "age": 43,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "4396",
+    "profile_slug": "janghel-madhusudan-1993-07-30",
+    "name": "JANGHEL Madhusudan",
+    "first_name": "Madhusudan",
+    "last_name": "JANGHEL",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-07-30",
+    "age": 32,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12765",
+    "profile_slug": "jaspreet-singh-1992-10-05",
+    "name": "JASPREET Singh",
+    "first_name": "Singh",
+    "last_name": "JASPREET",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-10-05",
+    "age": 33,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8175",
+    "profile_slug": "jasvant-singh-1990-01-01",
+    "name": "JASVANT Singh",
+    "first_name": "Singh",
+    "last_name": "JASVANT",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-01-01",
+    "age": 36,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15283",
+    "profile_slug": "jasveer-singh-2001-01-01",
+    "name": "JASVEER Singh",
+    "first_name": "Singh",
+    "last_name": "JASVEER",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-01-01",
+    "age": 25,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8466",
+    "profile_slug": "jasvir-kaur-1993-02-22",
+    "name": "JASVIR Kaur",
+    "first_name": "Kaur",
+    "last_name": "JASVIR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-02-22",
+    "age": 33,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2881",
+    "profile_slug": "jena-elimpha-1993-06-01",
+    "name": "JENA Elimpha",
+    "first_name": "Elimpha",
+    "last_name": "JENA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-06-01",
+    "age": 33,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8185",
+    "profile_slug": "jena-seeta-kumari-1987-03-30",
+    "name": "JENA Seeta Kumari",
+    "first_name": "JENA Seeta",
+    "last_name": "Kumari",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-03-30",
+    "age": 39,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13777",
+    "profile_slug": "jeremy-lalrinnunga-2002-10-26",
+    "name": "JEREMY Lalrinnunga",
+    "first_name": "Lalrinnunga",
+    "last_name": "JEREMY",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-10-26",
+    "age": 23,
+    "current_category": "67 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18533",
+    "profile_slug": "jyoti-yadav-2004-01-16",
+    "name": "JYOTI Yadav",
+    "first_name": "Yadav",
+    "last_name": "JYOTI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-01-16",
+    "age": 22,
+    "current_category": "76 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18587",
+    "profile_slug": "jyoti-yadav-2005-12-31",
+    "name": "JYOTI Yadav",
+    "first_name": "Yadav",
+    "last_name": "JYOTI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-12-31",
+    "age": 20,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3351",
+    "profile_slug": "kaintura-reena-1991-01-15",
+    "name": "KAINTURA Reena",
+    "first_name": "Reena",
+    "last_name": "KAINTURA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-01-15",
+    "age": 35,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2230",
+    "profile_slug": "kajlas-bandu-pujari-1980-08-24",
+    "name": "KAJLAS Bandu Pujari",
+    "first_name": "KAJLAS Bandu",
+    "last_name": "Pujari",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-08-24",
+    "age": 45,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14164",
+    "profile_slug": "kale-nikeeta-valmik-2000-07-22",
+    "name": "KALE Nikeeta Valmik",
+    "first_name": "KALE Nikeeta",
+    "last_name": "Valmik",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-07-22",
+    "age": 25,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16406",
+    "profile_slug": "kalyan-singh-1999-09-20",
+    "name": "KALYAN SINGH",
+    "first_name": "KALYAN",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-09-20",
+    "age": 26,
+    "current_category": "96 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18225",
+    "profile_slug": "kamalakar-nikita-2005-12-10",
+    "name": "KAMALAKAR Nikita",
+    "first_name": "Nikita",
+    "last_name": "KAMALAKAR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-12-10",
+    "age": 20,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11570",
+    "profile_slug": "kanu-priya-1988-10-25",
+    "name": "KANU Priya",
+    "first_name": "Priya",
+    "last_name": "KANU",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1988-10-25",
+    "age": 37,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19919",
+    "profile_slug": "kapil-sonowal-2006-12-27",
+    "name": "KAPIL Sonowal",
+    "first_name": "Sonowal",
+    "last_name": "KAPIL",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-12-27",
+    "age": 19,
+    "current_category": "102 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5660",
+    "profile_slug": "karanam-krishna-kumari-1976-05-12",
+    "name": "KARANAM Krishna Kumari",
+    "first_name": "KARANAM Krishna",
+    "last_name": "Kumari",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1976-05-12",
+    "age": 50,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8517",
+    "profile_slug": "karandeep-singh-1992-02-13",
+    "name": "KARANDEEP Singh",
+    "first_name": "Singh",
+    "last_name": "KARANDEEP",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-02-13",
+    "age": 34,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22716",
+    "profile_slug": "karangi-tharangani-2009-06-04",
+    "name": "KARANGI Tharangani",
+    "first_name": "Tharangani",
+    "last_name": "KARANGI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-06-04",
+    "age": 17,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21609",
+    "profile_slug": "karthik-komal-2004-05-23",
+    "name": "KARTHIK Komal",
+    "first_name": "Komal",
+    "last_name": "KARTHIK",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-05-23",
+    "age": 22,
+    "current_category": "96 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7161",
+    "profile_slug": "katila-venkata-lakshmi-1993-05-20",
+    "name": "KATILA Venkata Lakshmi",
+    "first_name": "KATILA Venkata",
+    "last_name": "Lakshmi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-05-20",
+    "age": 33,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2240",
+    "profile_slug": "katulu-ravi-kumar-1988-04-24",
+    "name": "KATULU Ravi Kumar",
+    "first_name": "KATULU Ravi",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1988-04-24",
+    "age": 38,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3730",
+    "profile_slug": "kaur-chandharr-balvir-1991-01-01",
+    "name": "KAUR Chandharr Balvir",
+    "first_name": "KAUR Chandharr",
+    "last_name": "Balvir",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-01-01",
+    "age": 35,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "17545",
+    "profile_slug": "kaur-harjinder-1996-10-14",
+    "name": "KAUR Harjinder",
+    "first_name": "Harjinder",
+    "last_name": "KAUR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-10-14",
+    "age": 29,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22326",
+    "profile_slug": "kaur-harmanpreet-2001-10-09",
+    "name": "KAUR Harmanpreet",
+    "first_name": "Harmanpreet",
+    "last_name": "KAUR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-10-09",
+    "age": 24,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11277",
+    "profile_slug": "kavita-devi-1983-03-15",
+    "name": "KAVITA Devi",
+    "first_name": "Devi",
+    "last_name": "KAVITA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1983-03-15",
+    "age": 43,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7604",
+    "profile_slug": "kavita-kumari-1987-08-01",
+    "name": "KAVITA KUMARI",
+    "first_name": "KAVITA",
+    "last_name": "KUMARI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-08-01",
+    "age": 38,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21593",
+    "profile_slug": "keerthana-r.p.-2008-01-20",
+    "name": "KEERTHANA R.P.",
+    "first_name": "KEERTHANA",
+    "last_name": "R.P.",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-01-20",
+    "age": 18,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "17530",
+    "profile_slug": "khan-komal-2001-03-23",
+    "name": "KHAN Komal",
+    "first_name": "Komal",
+    "last_name": "KHAN",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-03-23",
+    "age": 25,
+    "current_category": "64 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21957",
+    "profile_slug": "khandagale-yash-2007-10-27",
+    "name": "KHANDAGALE Yash",
+    "first_name": "Yash",
+    "last_name": "KHANDAGALE",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-10-27",
+    "age": 18,
+    "current_category": "65 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22627",
+    "profile_slug": "khandagale-yash-vinod-2007-10-27",
+    "name": "KHANDAGALE Yash Vinod",
+    "first_name": "KHANDAGALE Yash",
+    "last_name": "Vinod",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-10-27",
+    "age": 18,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7455",
+    "profile_slug": "khangembam-bidyabati-chanu-1994-04-02",
+    "name": "KHANGEMBAM Bidyabati Chanu",
+    "first_name": "KHANGEMBAM Bidyabati",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-04-02",
+    "age": 32,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7028",
+    "profile_slug": "khoni-devi-1979-01-01",
+    "name": "KHONI Devi",
+    "first_name": "Devi",
+    "last_name": "KHONI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1979-01-01",
+    "age": 47,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8864",
+    "profile_slug": "khumukcham-nungshiton-chanu-1998-03-02",
+    "name": "KHUMUKCHAM Nungshiton Chanu",
+    "first_name": "KHUMUKCHAM Nungshiton",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-03-02",
+    "age": 28,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7142",
+    "profile_slug": "khumukcham-sanjita-chanu-1994-01-02",
+    "name": "KHUMUKCHAM Sanjita Chanu",
+    "first_name": "KHUMUKCHAM Sanjita",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-01-02",
+    "age": 32,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15273",
+    "profile_slug": "khwairakpam-jojo-meitei-1998-03-05",
+    "name": "KHWAIRAKPAM Jojo Meitei",
+    "first_name": "KHWAIRAKPAM Jojo",
+    "last_name": "Meitei",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-03-05",
+    "age": 28,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3326",
+    "profile_slug": "khwairakpam-premila-devi-1990-03-02",
+    "name": "KHWAIRAKPAM Premila Devi",
+    "first_name": "KHWAIRAKPAM Premila",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-03-02",
+    "age": 36,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7466",
+    "profile_slug": "kiran-kumari-digal-1994-05-25",
+    "name": "KIRAN Kumari Digal",
+    "first_name": "KIRAN Kumari",
+    "last_name": "Digal",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-05-25",
+    "age": 32,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19862",
+    "profile_slug": "kishore-v-2007-12-14",
+    "name": "KISHORE V",
+    "first_name": "KISHORE",
+    "last_name": "V",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-12-14",
+    "age": 18,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22540",
+    "profile_slug": "kohar-komal-2002-07-24",
+    "name": "KOHAR Komal",
+    "first_name": "Komal",
+    "last_name": "KOHAR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-07-24",
+    "age": 23,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16887",
+    "profile_slug": "kolli-varalakshmi-pavani-kumari-2003-03-05",
+    "name": "KOLLI Varalakshmi Pavani Kumari",
+    "first_name": "KOLLI Varalakshmi Pavani",
+    "last_name": "Kumari",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-03-05",
+    "age": 23,
+    "current_category": "45 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2289",
+    "profile_slug": "kommerla-tulasi-1987-04-18",
+    "name": "KOMMERLA Tulasi",
+    "first_name": "Tulasi",
+    "last_name": "KOMMERLA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-04-18",
+    "age": 39,
+    "current_category": "+75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13514",
+    "profile_slug": "konjengbam-roshilata-devi-1999-07-11",
+    "name": "KONJENGBAM Roshilata Devi",
+    "first_name": "KONJENGBAM Roshilata",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-07-11",
+    "age": 26,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14002",
+    "profile_slug": "konsam-ormila-devi-2002-03-20",
+    "name": "KONSAM Ormila Devi",
+    "first_name": "KONSAM Ormila",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-03-20",
+    "age": 24,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11345",
+    "profile_slug": "kopparthi-shireesha-1993-06-19",
+    "name": "KOPPARTHI Shireesha",
+    "first_name": "Shireesha",
+    "last_name": "KOPPARTHI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-06-19",
+    "age": 32,
+    "current_category": "59  kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2764",
+    "profile_slug": "korada-ramana-1993-05-11",
+    "name": "KORADA Ramana",
+    "first_name": "Ramana",
+    "last_name": "KORADA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-05-11",
+    "age": 33,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19405",
+    "profile_slug": "koyel-bar-2008-06-22",
+    "name": "KOYEL Bar",
+    "first_name": "Bar",
+    "last_name": "KOYEL",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-06-22",
+    "age": 17,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2853",
+    "profile_slug": "krisani-pramila-1996-01-09",
+    "name": "KRISANI Pramila",
+    "first_name": "Pramila",
+    "last_name": "KRISANI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-01-09",
+    "age": 30,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15267",
+    "profile_slug": "kumar-ankush-2001-07-03",
+    "name": "KUMAR Ankush",
+    "first_name": "Ankush",
+    "last_name": "KUMAR",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-07-03",
+    "age": 24,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6209",
+    "profile_slug": "kumar-s.-deva--1982-05-25",
+    "name": "KUMAR S. Deva",
+    "first_name": "Deva",
+    "last_name": "KUMAR S.",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1982-05-25",
+    "age": 44,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5076",
+    "profile_slug": "kumari-pratima-1976-01-30",
+    "name": "KUMARI Pratima",
+    "first_name": "Pratima",
+    "last_name": "KUMARI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1976-01-30",
+    "age": 50,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "575",
+    "profile_slug": "kunjarani-nameirakpam-devi-1968-03-01",
+    "name": "KUNJARANI Nameirakpam Devi",
+    "first_name": "KUNJARANI Nameirakpam",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1968-03-01",
+    "age": 58,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6208",
+    "profile_slug": "kurumoju-kurumoju-rameshkumar--1989-12-16",
+    "name": "KURUMOJU Kurumoju Rameshkumar",
+    "first_name": "KURUMOJU Kurumoju",
+    "last_name": "Rameshkumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-12-16",
+    "age": 36,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14651",
+    "profile_slug": "lalchhanhimi-1992-02-24",
+    "name": "LALCHHANHIMI",
+    "first_name": "LALCHHANHIMI",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-02-24",
+    "age": 34,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19877",
+    "profile_slug": "lalruatfela-2006-05-03",
+    "name": "LALRUATFELA",
+    "first_name": "LALRUATFELA",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-05-03",
+    "age": 20,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9292",
+    "profile_slug": "lalzuidika-1997-06-23",
+    "name": "LALZUIDIKA",
+    "first_name": "LALZUIDIKA",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-06-23",
+    "age": 28,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15212",
+    "profile_slug": "lamabam-nilam-devi-2004-06-10",
+    "name": "LAMABAM Nilam Devi",
+    "first_name": "LAMABAM Nilam",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-06-10",
+    "age": 22,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9401",
+    "profile_slug": "lapung-sambo-1997-03-06",
+    "name": "LAPUNG Sambo",
+    "first_name": "Sambo",
+    "last_name": "LAPUNG",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-03-06",
+    "age": 29,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21177",
+    "profile_slug": "lapung-sankar-2004-09-22",
+    "name": "LAPUNG Sankar",
+    "first_name": "Sankar",
+    "last_name": "LAPUNG",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-09-22",
+    "age": 21,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16655",
+    "profile_slug": "leiphrakpam-sadananda-singh-2002-04-01",
+    "name": "LEIPHRAKPAM Sadananda Singh",
+    "first_name": "LEIPHRAKPAM Sadananda",
+    "last_name": "Singh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-04-01",
+    "age": 24,
+    "current_category": "73  kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12766",
+    "profile_slug": "leiphrakpam-sunderjit-singh-1998-03-01",
+    "name": "LEIPHRAKPAM Sunderjit Singh",
+    "first_name": "LEIPHRAKPAM Sunderjit",
+    "last_name": "Singh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-03-01",
+    "age": 28,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19359",
+    "profile_slug": "loganathan-dhanush-2006-11-19",
+    "name": "LOGANATHAN Dhanush",
+    "first_name": "Dhanush",
+    "last_name": "LOGANATHAN",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-11-19",
+    "age": 19,
+    "current_category": "60 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7477",
+    "profile_slug": "loitongbam-ajit-singh-1995-12-30",
+    "name": "LOITONGBAM Ajit Singh",
+    "first_name": "LOITONGBAM Ajit",
+    "last_name": "Singh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-12-30",
+    "age": 30,
+    "current_category": "50 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14496",
+    "profile_slug": "lovepreet-singh-1997-09-06",
+    "name": "LOVEPREET Singh",
+    "first_name": "Singh",
+    "last_name": "LOVEPREET",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-09-06",
+    "age": 28,
+    "current_category": "109 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19828",
+    "profile_slug": "madhavan-thirumurugan-2004-12-03",
+    "name": "MADHAVAN Thirumurugan",
+    "first_name": "Thirumurugan",
+    "last_name": "MADHAVAN",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-12-03",
+    "age": 21,
+    "current_category": "73 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13045",
+    "profile_slug": "mahajan-dipak-ramesh-1991-10-22",
+    "name": "MAHAJAN Dipak Ramesh",
+    "first_name": "MAHAJAN Dipak",
+    "last_name": "Ramesh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-10-22",
+    "age": 34,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22620",
+    "profile_slug": "maharajan-a-2008-04-22",
+    "name": "MAHARAJAN A",
+    "first_name": "MAHARAJAN",
+    "last_name": "A",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-04-22",
+    "age": 18,
+    "current_category": "65 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21537",
+    "profile_slug": "maharajan-a.-2008-12-31",
+    "name": "MAHARAJAN A.",
+    "first_name": "MAHARAJAN",
+    "last_name": "A.",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-12-31",
+    "age": 17,
+    "current_category": "60 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22356",
+    "profile_slug": "mahto-rohan-kumar-2008-03-20",
+    "name": "MAHTO Rohan Kumar",
+    "first_name": "MAHTO Rohan",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-03-20",
+    "age": 18,
+    "current_category": "79 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19523",
+    "profile_slug": "maibam-martina-devi-2006-03-21",
+    "name": "MAIBAM Martina Devi",
+    "first_name": "MAIBAM Martina",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-03-21",
+    "age": 20,
+    "current_category": "+86 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3967",
+    "profile_slug": "maibam-sunibala-devi-1989-03-01",
+    "name": "MAIBAM Sunibala Devi",
+    "first_name": "MAIBAM Sunibala",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-03-01",
+    "age": 37,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7588",
+    "profile_slug": "mal-joti-1996-07-22",
+    "name": "MAL Joti",
+    "first_name": "Joti",
+    "last_name": "MAL",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-07-22",
+    "age": 29,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8507",
+    "profile_slug": "mali-chandrakant-dadu-1987-08-28",
+    "name": "MALI Chandrakant Dadu",
+    "first_name": "MALI Chandrakant",
+    "last_name": "Dadu",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-08-28",
+    "age": 38,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6204",
+    "profile_slug": "mali-ganesh-chandrakant--1993-05-14",
+    "name": "MALI Ganesh Chandrakant",
+    "first_name": "MALI Ganesh",
+    "last_name": "Chandrakant",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-05-14",
+    "age": 33,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22369",
+    "profile_slug": "malik-tiki-mohini-2008-02-05",
+    "name": "MALIK Tiki Mohini",
+    "first_name": "MALIK Tiki",
+    "last_name": "Mohini",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-02-05",
+    "age": 18,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "609",
+    "profile_slug": "malleswari-karnam-1975-06-01",
+    "name": "MALLESWARI Karnam",
+    "first_name": "Karnam",
+    "last_name": "MALLESWARI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1975-06-01",
+    "age": 51,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22480",
+    "profile_slug": "mallik-tikimohini-2008-02-05",
+    "name": "MALLIK Tikimohini",
+    "first_name": "Tikimohini",
+    "last_name": "MALLIK",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-02-05",
+    "age": 18,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14099",
+    "profile_slug": "mane-trupti-sanjay-2001-09-20",
+    "name": "MANE Trupti Sanjay",
+    "first_name": "MANE Trupti",
+    "last_name": "Sanjay",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-09-20",
+    "age": 24,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11751",
+    "profile_slug": "mangalaraj-manojkumar-1995-08-22",
+    "name": "MANGALARAJ Manojkumar",
+    "first_name": "Manojkumar",
+    "last_name": "MANGALARAJ",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-08-22",
+    "age": 30,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5250",
+    "profile_slug": "mangaraj-prasmita-1977-07-04",
+    "name": "MANGARAJ Prasmita",
+    "first_name": "Prasmita",
+    "last_name": "MANGARAJ",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1977-07-04",
+    "age": 48,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19810",
+    "profile_slug": "mangkhya-boni-2004-04-06",
+    "name": "MANGKHYA Boni",
+    "first_name": "Boni",
+    "last_name": "MANGKHYA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-04-06",
+    "age": 22,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7212",
+    "profile_slug": "mangte-parneichong-kom-1992-12-04",
+    "name": "MANGTE Parneichong Kom",
+    "first_name": "MANGTE Parneichong",
+    "last_name": "Kom",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-12-04",
+    "age": 33,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8450",
+    "profile_slug": "manikkal-shamsudheen-muneera-1996-07-21",
+    "name": "MANIKKAL Shamsudheen Muneera",
+    "first_name": "MANIKKAL Shamsudheen",
+    "last_name": "Muneera",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-07-21",
+    "age": 29,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11572",
+    "profile_slug": "manpreet-kaur-1997-02-02",
+    "name": "MANPREET Kaur",
+    "first_name": "Kaur",
+    "last_name": "MANPREET",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-02-02",
+    "age": 29,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10535",
+    "profile_slug": "manpreet-kaur-1996-01-02",
+    "name": "MANPREET Kaur",
+    "first_name": "Kaur",
+    "last_name": "MANPREET",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-01-02",
+    "age": 30,
+    "current_category": "76 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11571",
+    "profile_slug": "manpreet-kaur-1989-09-15",
+    "name": "MANPREET Kaur",
+    "first_name": "Kaur",
+    "last_name": "MANPREET",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-09-15",
+    "age": 36,
+    "current_category": "+75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11573",
+    "profile_slug": "manvas-chand-1981-06-25",
+    "name": "MANVAS Chand",
+    "first_name": "Chand",
+    "last_name": "MANVAS",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1981-06-25",
+    "age": 44,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18814",
+    "profile_slug": "mariya-muriyaden-thimothy-ann-1998-08-21",
+    "name": "MARIYA MURIYADEN THIMOTHY Ann",
+    "first_name": "Ann",
+    "last_name": "MARIYA MURIYADEN THIMOTHY",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-08-21",
+    "age": 27,
+    "current_category": "+87 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18833",
+    "profile_slug": "markio-tario-2004-01-01",
+    "name": "MARKIO Tario",
+    "first_name": "Tario",
+    "last_name": "MARKIO",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-01-01",
+    "age": 22,
+    "current_category": "67 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "4351",
+    "profile_slug": "matsa-santoshi-1994-03-10",
+    "name": "MATSA Santoshi",
+    "first_name": "Santoshi",
+    "last_name": "MATSA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-03-10",
+    "age": 32,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11200",
+    "profile_slug": "meena-kumari-1989-08-15",
+    "name": "MEENA Kumari",
+    "first_name": "Kumari",
+    "last_name": "MEENA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-08-15",
+    "age": 36,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21643",
+    "profile_slug": "meetei-nameirakpam-tomchou-2006-03-04",
+    "name": "MEETEI NAMEIRAKPAM Tomchou",
+    "first_name": "Tomchou",
+    "last_name": "MEETEI NAMEIRAKPAM",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-03-04",
+    "age": 20,
+    "current_category": "60 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7450",
+    "profile_slug": "meitram-purnima-chanu-1998-05-04",
+    "name": "MEITRAM Purnima Chanu",
+    "first_name": "MEITRAM Purnima",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-05-04",
+    "age": 28,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19849",
+    "profile_slug": "mina-santa-2007-03-07",
+    "name": "MINA Santa",
+    "first_name": "Santa",
+    "last_name": "MINA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-03-07",
+    "age": 19,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7521",
+    "profile_slug": "mirabai-chanu-saikhom-1994-08-08",
+    "name": "MIRABAI Chanu Saikhom",
+    "first_name": "MIRABAI Chanu",
+    "last_name": "Saikhom",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-08-08",
+    "age": 31,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22352",
+    "profile_slug": "modi-anik--2008-04-24",
+    "name": "MODI Anik",
+    "first_name": "Anik",
+    "last_name": "MODI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-04-24",
+    "age": 18,
+    "current_category": "65 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8518",
+    "profile_slug": "mohanlal-syamlal-1989-05-10",
+    "name": "MOHANLAL Syamlal",
+    "first_name": "Syamlal",
+    "last_name": "MOHANLAL",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-05-10",
+    "age": 37,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18228",
+    "profile_slug": "mohite-bhumika-2006-09-20",
+    "name": "MOHITE Bhumika",
+    "first_name": "Bhumika",
+    "last_name": "MOHITE",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-09-20",
+    "age": 19,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5378",
+    "profile_slug": "moida-rama-krishna-1992-03-10",
+    "name": "MOIDA Rama Krishna",
+    "first_name": "MOIDA Rama",
+    "last_name": "Krishna",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-03-10",
+    "age": 34,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8438",
+    "profile_slug": "moorayil-suresh-karthik-1992-03-24",
+    "name": "MOORAYIL SURESH Karthik",
+    "first_name": "Karthik",
+    "last_name": "MOORAYIL SURESH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-03-24",
+    "age": 34,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6225",
+    "profile_slug": "mudha-rajendra-chaitanya--1993-10-10",
+    "name": "MUDHA Rajendra Chaitanya",
+    "first_name": "MUDHA Rajendra",
+    "last_name": "Chaitanya",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-10-10",
+    "age": 32,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10547",
+    "profile_slug": "munni-1995-02-05",
+    "name": "MUNNI",
+    "first_name": "MUNNI",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-02-05",
+    "age": 31,
+    "current_category": "+75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11574",
+    "profile_slug": "munnolkar-kanchan-parasharam-1995-05-28",
+    "name": "MUNNOLKAR Kanchan Parasharam",
+    "first_name": "MUNNOLKAR Kanchan",
+    "last_name": "Parasharam",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-05-28",
+    "age": 31,
+    "current_category": "+75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "4243",
+    "profile_slug": "muthu-thandava-murthy-1975-01-01",
+    "name": "MUTHU Thandava Murthy",
+    "first_name": "MUTHU Thandava",
+    "last_name": "Murthy",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1975-01-01",
+    "age": 51,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13457",
+    "profile_slug": "muthupandi-raja-2000-01-12",
+    "name": "MUTHUPANDI Raja",
+    "first_name": "Raja",
+    "last_name": "MUTHUPANDI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-01-12",
+    "age": 26,
+    "current_category": "65 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5996",
+    "profile_slug": "namechand-sunilkumar-1989-08-16",
+    "name": "NAMECHAND Sunilkumar",
+    "first_name": "Sunilkumar",
+    "last_name": "NAMECHAND",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-08-16",
+    "age": 36,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7529",
+    "profile_slug": "nameirakpam-sumanbala-devi-1992-12-01",
+    "name": "NAMEIRAKPAM Sumanbala Devi",
+    "first_name": "NAMEIRAKPAM Sumanbala",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-12-01",
+    "age": 33,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5060",
+    "profile_slug": "nandini-devi-1976-01-01",
+    "name": "NANDINI Devi",
+    "first_name": "Devi",
+    "last_name": "NANDINI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1976-01-01",
+    "age": 50,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "20675",
+    "profile_slug": "narayana-ajith-1999-01-27",
+    "name": "NARAYANA Ajith",
+    "first_name": "Ajith",
+    "last_name": "NARAYANA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-01-27",
+    "age": 27,
+    "current_category": "71 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6284",
+    "profile_slug": "narender-b.--1984-08-20",
+    "name": "NARENDER B.",
+    "first_name": "NARENDER",
+    "last_name": "B.",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1984-08-20",
+    "age": 41,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18016",
+    "profile_slug": "natesh-kumara-usha-bannur-1995-04-02",
+    "name": "NATESH KUMARA Usha Bannur",
+    "first_name": "NATESH KUMARA Usha",
+    "last_name": "Bannur",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-04-02",
+    "age": 31,
+    "current_category": "87 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3238",
+    "profile_slug": "navale-ketaki-1993-09-10",
+    "name": "NAVALE Ketaki",
+    "first_name": "Ketaki",
+    "last_name": "NAVALE",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-09-10",
+    "age": 32,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12767",
+    "profile_slug": "navi-gulam-2000-06-15",
+    "name": "NAVI Gulam",
+    "first_name": "Gulam",
+    "last_name": "NAVI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-06-15",
+    "age": 25,
+    "current_category": "67 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16903",
+    "profile_slug": "nayak-muna-2002-10-20",
+    "name": "NAYAK Muna",
+    "first_name": "Muna",
+    "last_name": "NAYAK",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-10-20",
+    "age": 23,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5696",
+    "profile_slug": "neelam-setti-laxmi-1973-03-05",
+    "name": "NEELAM Setti Laxmi",
+    "first_name": "NEELAM Setti",
+    "last_name": "Laxmi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1973-03-05",
+    "age": 53,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6784",
+    "profile_slug": "neelam-setty-krishna-neni-1982-05-25",
+    "name": "NEELAM SETTY Krishna Neni",
+    "first_name": "NEELAM SETTY Krishna",
+    "last_name": "Neni",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1982-05-25",
+    "age": 44,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22538",
+    "profile_slug": "nipane-abhishek-suresh-2001-12-11",
+    "name": "NIPANE Abhishek Suresh",
+    "first_name": "NIPANE Abhishek",
+    "last_name": "Suresh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-12-11",
+    "age": 24,
+    "current_category": "88 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11575",
+    "profile_slug": "nishant-nitish-kumar-1986-07-20",
+    "name": "NISHANT Nitish Kumar",
+    "first_name": "NISHANT Nitish",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1986-07-20",
+    "age": 39,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8516",
+    "profile_slug": "nitin-singh-rawat-1992-05-29",
+    "name": "NITIN Singh Rawat",
+    "first_name": "NITIN Singh",
+    "last_name": "Rawat",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-05-29",
+    "age": 34,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7217",
+    "profile_slug": "oinam-geeta-devi-1993-11-25",
+    "name": "OINAM Geeta Devi",
+    "first_name": "OINAM Geeta",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-11-25",
+    "age": 32,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3758",
+    "profile_slug": "otari-omkar-shekhar-1987-12-16",
+    "name": "OTARI Omkar Shekhar",
+    "first_name": "OTARI Omkar",
+    "last_name": "Shekhar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-12-16",
+    "age": 38,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21594",
+    "profile_slug": "oviya-k.-2007-11-02",
+    "name": "OVIYA K.",
+    "first_name": "OVIYA",
+    "last_name": "K.",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-11-02",
+    "age": 18,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16396",
+    "profile_slug": "p.-anuradha-1992-05-25",
+    "name": "P. ANURADHA",
+    "first_name": "P.",
+    "last_name": "ANURADHA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-05-25",
+    "age": 34,
+    "current_category": "87 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19832",
+    "profile_slug": "pallavi-sanapathi-2003-07-13",
+    "name": "PALLAVI Sanapathi",
+    "first_name": "Sanapathi",
+    "last_name": "PALLAVI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-07-13",
+    "age": 22,
+    "current_category": "64 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11576",
+    "profile_slug": "pandey-akshat-1981-07-12",
+    "name": "PANDEY Akshat",
+    "first_name": "Akshat",
+    "last_name": "PANDEY",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1981-07-12",
+    "age": 44,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12768",
+    "profile_slug": "pandey-gauri-1998-06-15",
+    "name": "PANDEY Gauri",
+    "first_name": "Gauri",
+    "last_name": "PANDEY",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-06-15",
+    "age": 27,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13576",
+    "profile_slug": "pandey-pumima-1997-10-16",
+    "name": "PANDEY Pumima",
+    "first_name": "Pumima",
+    "last_name": "PANDEY",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-10-16",
+    "age": 28,
+    "current_category": "+87 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9682",
+    "profile_slug": "panwar-sushila-1993-12-01",
+    "name": "PANWAR Sushila",
+    "first_name": "Sushila",
+    "last_name": "PANWAR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-12-01",
+    "age": 32,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21907",
+    "profile_slug": "parashar-rishab-2008-04-08",
+    "name": "PARASHAR Rishab",
+    "first_name": "Rishab",
+    "last_name": "PARASHAR",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-04-08",
+    "age": 18,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11577",
+    "profile_slug": "pardeep-singh-1995-01-04",
+    "name": "PARDEEP Singh",
+    "first_name": "Singh",
+    "last_name": "PARDEEP",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-01-04",
+    "age": 31,
+    "current_category": "102 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21031",
+    "profile_slug": "pardeshi-sairaj-2007-06-08",
+    "name": "PARDESHI Sairaj",
+    "first_name": "Sairaj",
+    "last_name": "PARDESHI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-06-08",
+    "age": 19,
+    "current_category": "88 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18047",
+    "profile_slug": "patel-anjali-2004-10-08",
+    "name": "PATEL Anjali",
+    "first_name": "Anjali",
+    "last_name": "PATEL",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-10-08",
+    "age": 21,
+    "current_category": "45 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14608",
+    "profile_slug": "patil-ananya-vijay-2001-01-14",
+    "name": "PATIL Ananya Vijay",
+    "first_name": "PATIL Ananya",
+    "last_name": "Vijay",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-01-14",
+    "age": 25,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "17681",
+    "profile_slug": "pavunraj-anuradha-1992-05-25",
+    "name": "PAVUNRAJ Anuradha",
+    "first_name": "Anuradha",
+    "last_name": "PAVUNRAJ",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-05-25",
+    "age": 34,
+    "current_category": "87 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "20979",
+    "profile_slug": "payal-2009-07-24",
+    "name": "PAYAL",
+    "first_name": "PAYAL",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-07-24",
+    "age": 16,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15214",
+    "profile_slug": "phandom-ranibala-devi-1998-02-01",
+    "name": "PHANDOM Ranibala Devi",
+    "first_name": "PHANDOM Ranibala",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-02-01",
+    "age": 28,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13497",
+    "profile_slug": "poonia-abhishek-2000-12-15",
+    "name": "POONIA Abhishek",
+    "first_name": "Abhishek",
+    "last_name": "POONIA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-12-15",
+    "age": 25,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11578",
+    "profile_slug": "potshangbam-ganga-devi-1999-07-01",
+    "name": "POTSHANGBAM Ganga Devi",
+    "first_name": "POTSHANGBAM Ganga",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-07-01",
+    "age": 26,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14155",
+    "profile_slug": "potshangbam-umeshwori-devi-2002-07-28",
+    "name": "POTSHANGBAM Umeshwori Devi",
+    "first_name": "POTSHANGBAM Umeshwori",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2002-07-28",
+    "age": 23,
+    "current_category": "64 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15282",
+    "profile_slug": "pradeep-kumar-yadav-2001-03-05",
+    "name": "PRADEEP Kumar Yadav",
+    "first_name": "PRADEEP Kumar",
+    "last_name": "Yadav",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-03-05",
+    "age": 25,
+    "current_category": "102 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18174",
+    "profile_slug": "prajapati-vijay-2005-12-13",
+    "name": "PRAJAPATI Vijay",
+    "first_name": "Vijay",
+    "last_name": "PRAJAPATI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-12-13",
+    "age": 20,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6255",
+    "profile_slug": "prasad-mohanty--1993-09-30",
+    "name": "PRASAD Mohanty",
+    "first_name": "Mohanty",
+    "last_name": "PRASAD",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-09-30",
+    "age": 32,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8514",
+    "profile_slug": "pratap-singh-sushmita-singh-1993-04-13",
+    "name": "PRATAP SINGH Sushmita Singh",
+    "first_name": "PRATAP SINGH Sushmita",
+    "last_name": "Singh",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-04-13",
+    "age": 33,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11579",
+    "profile_slug": "pritti-rani-1982-12-09",
+    "name": "PRITTI Rani",
+    "first_name": "Rani",
+    "last_name": "PRITTI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1982-12-09",
+    "age": 43,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "4376",
+    "profile_slug": "priya-lakshmi-1995-06-09",
+    "name": "PRIYA Lakshmi",
+    "first_name": "Lakshmi",
+    "last_name": "PRIYA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-06-09",
+    "age": 31,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "422",
+    "profile_slug": "pujari-sailaja-1982-06-12",
+    "name": "PUJARI Sailaja",
+    "first_name": "Sailaja",
+    "last_name": "PUJARI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1982-06-12",
+    "age": 44,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13490",
+    "profile_slug": "ragala-varun-2000-04-08",
+    "name": "RAGALA Varun",
+    "first_name": "Varun",
+    "last_name": "RAGALA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-04-08",
+    "age": 26,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7505",
+    "profile_slug": "ragala-venkat-rahul-1997-03-16",
+    "name": "RAGALA Venkat Rahul",
+    "first_name": "RAGALA Venkat",
+    "last_name": "Rahul",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-03-16",
+    "age": 29,
+    "current_category": "89 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5131",
+    "profile_slug": "rai-satheesha-1971-08-27",
+    "name": "RAI Satheesha",
+    "first_name": "Satheesha",
+    "last_name": "RAI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1971-08-27",
+    "age": 54,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "4521",
+    "profile_slug": "rajeswari-b.-1993-08-18",
+    "name": "RAJESWARI B.",
+    "first_name": "RAJESWARI",
+    "last_name": "B.",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-08-18",
+    "age": 32,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8186",
+    "profile_slug": "rajwant-kaur-1987-03-02",
+    "name": "RAJWANT Kaur",
+    "first_name": "Kaur",
+    "last_name": "RAJWANT",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-03-02",
+    "age": 39,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11580",
+    "profile_slug": "raman-poornima-1983-09-23",
+    "name": "RAMAN Poornima",
+    "first_name": "Poornima",
+    "last_name": "RAMAN",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1983-09-23",
+    "age": 42,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "17612",
+    "profile_slug": "ramasundara-pandi-arockiya-alish-2000-11-05",
+    "name": "RAMASUNDARA PANDI Arockiya Alish",
+    "first_name": "RAMASUNDARA PANDI Arockiya",
+    "last_name": "Alish",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-11-05",
+    "age": 25,
+    "current_category": "76 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7627",
+    "profile_slug": "rambabu-pasam-1983-06-08",
+    "name": "RAMBABU Pasam",
+    "first_name": "Pasam",
+    "last_name": "RAMBABU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1983-06-08",
+    "age": 43,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10407",
+    "profile_slug": "rani-1997-03-01",
+    "name": "RANI",
+    "first_name": "RANI",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-03-01",
+    "age": 29,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3319",
+    "profile_slug": "ravinder-partap-singh-1991-11-14",
+    "name": "RAVINDER Partap Singh",
+    "first_name": "RAVINDER Partap",
+    "last_name": "Singh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-11-14",
+    "age": 34,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9915",
+    "profile_slug": "reena-1991-01-15",
+    "name": "REENA",
+    "first_name": "REENA",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-01-15",
+    "age": 35,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16407",
+    "profile_slug": "rekhamoni-gogoi-2004-12-11",
+    "name": "REKHAMONI GOGOI",
+    "first_name": "REKHAMONI",
+    "last_name": "GOGOI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-12-11",
+    "age": 21,
+    "current_category": "40 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18052",
+    "profile_slug": "rithika-v-2004-07-25",
+    "name": "RITHIKA V",
+    "first_name": "RITHIKA",
+    "last_name": "V",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-07-25",
+    "age": 21,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5698",
+    "profile_slug": "romi-devi-1980-01-01",
+    "name": "ROMI Devi",
+    "first_name": "Devi",
+    "last_name": "ROMI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-01-01",
+    "age": 46,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11086",
+    "profile_slug": "rout-saraswati-1995-06-10",
+    "name": "ROUT Saraswati",
+    "first_name": "Saraswati",
+    "last_name": "ROUT",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-06-10",
+    "age": 31,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22642",
+    "profile_slug": "roy-sandeep-das-n-2006-11-29",
+    "name": "ROY Sandeep Das N",
+    "first_name": "ROY Sandeep Das",
+    "last_name": "N",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-11-29",
+    "age": 19,
+    "current_category": "88 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6060",
+    "profile_slug": "rupinder-singh-1985-08-15",
+    "name": "RUPINDER Singh",
+    "first_name": "Singh",
+    "last_name": "RUPINDER",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1985-08-15",
+    "age": 40,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19366",
+    "profile_slug": "sabar-jyoshna-2008-10-25",
+    "name": "SABAR Jyoshna",
+    "first_name": "Jyoshna",
+    "last_name": "SABAR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-10-25",
+    "age": 17,
+    "current_category": "40 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8449",
+    "profile_slug": "sagolsem-thasana-chanu-1997-02-04",
+    "name": "SAGOLSEM Thasana Chanu",
+    "first_name": "SAGOLSEM Thasana",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-02-04",
+    "age": 29,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7599",
+    "profile_slug": "sahoo-achyutananda-1994-02-08",
+    "name": "SAHOO Achyutananda",
+    "first_name": "Achyutananda",
+    "last_name": "SAHOO",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-02-08",
+    "age": 32,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21650",
+    "profile_slug": "sahu-harsabardhan-2009-05-22",
+    "name": "SAHU Harsabardhan",
+    "first_name": "Harsabardhan",
+    "last_name": "SAHU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-05-22",
+    "age": 17,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5347",
+    "profile_slug": "sahu-keshav-1992-08-22",
+    "name": "SAHU Keshav",
+    "first_name": "Keshav",
+    "last_name": "SAHU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-08-22",
+    "age": 33,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6200",
+    "profile_slug": "sahu-susant--1991-05-18",
+    "name": "SAHU Susant",
+    "first_name": "Susant",
+    "last_name": "SAHU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-05-18",
+    "age": 35,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9434",
+    "profile_slug": "saikia-pompi-1996-01-09",
+    "name": "SAIKIA Pompi",
+    "first_name": "Pompi",
+    "last_name": "SAIKIA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-01-09",
+    "age": 30,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3022",
+    "profile_slug": "saini-harjot-singh-1992-01-09",
+    "name": "SAINI Harjot Singh",
+    "first_name": "SAINI Harjot",
+    "last_name": "Singh",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-01-09",
+    "age": 34,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13625",
+    "profile_slug": "saini-shivam-1996-05-25",
+    "name": "SAINI Shivam",
+    "first_name": "Shivam",
+    "last_name": "SAINI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-05-25",
+    "age": 30,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16399",
+    "profile_slug": "sakshi-prakash-maske-2001-03-23",
+    "name": "SAKSHI PRAKASH MASKE",
+    "first_name": "SAKSHI PRAKASH",
+    "last_name": "MASKE",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-03-23",
+    "age": 25,
+    "current_category": "45 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16401",
+    "profile_slug": "saloni-singh-2001-10-25",
+    "name": "SALONI Singh",
+    "first_name": "Singh",
+    "last_name": "SALONI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-10-25",
+    "age": 24,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19870",
+    "profile_slug": "sanapathi-gurunaidu-2006-05-09",
+    "name": "SANAPATHI Gurunaidu",
+    "first_name": "Gurunaidu",
+    "last_name": "SANAPATHI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-05-09",
+    "age": 20,
+    "current_category": "60 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7919",
+    "profile_slug": "sandeep-kumar-1980-01-01",
+    "name": "SANDEEP Kumar",
+    "first_name": "Kumar",
+    "last_name": "SANDEEP",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-01-01",
+    "age": 46,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3729",
+    "profile_slug": "sandhya-kulusu-1990-01-01",
+    "name": "SANDHYA Kulusu",
+    "first_name": "Kulusu",
+    "last_name": "SANDHYA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-01-01",
+    "age": 36,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19891",
+    "profile_slug": "sanjana-2007-01-18",
+    "name": "SANJANA",
+    "first_name": "SANJANA",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-01-18",
+    "age": 19,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8566",
+    "profile_slug": "santa--aruna-1996-03-10",
+    "name": "SANTA  Aruna",
+    "first_name": "Aruna",
+    "last_name": "SANTA ",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-03-10",
+    "age": 30,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "1853",
+    "profile_slug": "sarabjit-1983-10-03",
+    "name": "SARABJIT",
+    "first_name": "SARABJIT",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1983-10-03",
+    "age": 42,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3271",
+    "profile_slug": "sarang-ajay-deep-1990-12-12",
+    "name": "SARANG Ajay Deep",
+    "first_name": "SARANG Ajay",
+    "last_name": "Deep",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-12-12",
+    "age": 35,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8457",
+    "profile_slug": "sarang-rustam-1988-12-12",
+    "name": "SARANG Rustam",
+    "first_name": "Rustam",
+    "last_name": "SARANG",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1988-12-12",
+    "age": 37,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "17500",
+    "profile_slug": "sargar-sanket-mahadev-2000-10-16",
+    "name": "SARGAR Sanket Mahadev",
+    "first_name": "SARGAR Sanket",
+    "last_name": "Mahadev",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-10-16",
+    "age": 25,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11581",
+    "profile_slug": "sarkar-putul-1994-02-09",
+    "name": "SARKAR Putul",
+    "first_name": "Putul",
+    "last_name": "SARKAR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-02-09",
+    "age": 32,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10496",
+    "profile_slug": "seema-1997-09-14",
+    "name": "SEEMA",
+    "first_name": "SEEMA",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-09-14",
+    "age": 28,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5404",
+    "profile_slug": "seera-chandrakala-1992-08-12",
+    "name": "SEERA Chandrakala",
+    "first_name": "Chandrakala",
+    "last_name": "SEERA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-08-12",
+    "age": 33,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15285",
+    "profile_slug": "sehrawat-harshit-2000-05-04",
+    "name": "SEHRAWAT Harshit",
+    "first_name": "Harshit",
+    "last_name": "SEHRAWAT",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-05-04",
+    "age": 26,
+    "current_category": "102 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13555",
+    "profile_slug": "seram-nirupama-devi-2000-10-05",
+    "name": "SERAM Nirupama Devi",
+    "first_name": "SERAM Nirupama",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-10-05",
+    "age": 25,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8857",
+    "profile_slug": "seth-sampa-1997-04-10",
+    "name": "SETH Sampa",
+    "first_name": "Sampa",
+    "last_name": "SETH",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-04-10",
+    "age": 29,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8441",
+    "profile_slug": "sethi-minati-1990-02-11",
+    "name": "SETHI Minati",
+    "first_name": "Minati",
+    "last_name": "SETHI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-02-11",
+    "age": 36,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13677",
+    "profile_slug": "shaik-alima-begum-1995-05-17",
+    "name": "SHAIK Alima Begum",
+    "first_name": "SHAIK Alima",
+    "last_name": "Begum",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-05-17",
+    "age": 31,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11582",
+    "profile_slug": "shankar-sathish-1996-03-10",
+    "name": "SHANKAR Sathish",
+    "first_name": "Sathish",
+    "last_name": "SHANKAR",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-03-10",
+    "age": 30,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12599",
+    "profile_slug": "shanmugam-mohana-sundaram-1983-05-21",
+    "name": "SHANMUGAM Mohana Sundaram",
+    "first_name": "SHANMUGAM Mohana",
+    "last_name": "Sundaram",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1983-05-21",
+    "age": 43,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18779",
+    "profile_slug": "sharad-garud-harshada-2003-11-08",
+    "name": "SHARAD GARUD Harshada",
+    "first_name": "Harshada",
+    "last_name": "SHARAD GARUD",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-11-08",
+    "age": 22,
+    "current_category": "45 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22330",
+    "profile_slug": "sharma-mehak-1995-04-01",
+    "name": "SHARMA Mehak",
+    "first_name": "Mehak",
+    "last_name": "SHARMA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-04-01",
+    "age": 31,
+    "current_category": "+86 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7617",
+    "profile_slug": "sharma-neeraj-1994-05-10",
+    "name": "SHARMA Neeraj",
+    "first_name": "Neeraj",
+    "last_name": "SHARMA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-05-10",
+    "age": 32,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2962",
+    "profile_slug": "sharma-parveen-1992-01-26",
+    "name": "SHARMA Parveen",
+    "first_name": "Parveen",
+    "last_name": "SHARMA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-01-26",
+    "age": 34,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12769",
+    "profile_slug": "sheuli-achinta-2001-11-24",
+    "name": "SHEULI Achinta",
+    "first_name": "Achinta",
+    "last_name": "SHEULI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-11-24",
+    "age": 24,
+    "current_category": "73 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3302",
+    "profile_slug": "shinde-anita-1990-09-12",
+    "name": "SHINDE Anita",
+    "first_name": "Anita",
+    "last_name": "SHINDE",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-09-12",
+    "age": 35,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5988",
+    "profile_slug": "shougrakpam-chandreshori-devi-1980-03-01",
+    "name": "SHOUGRAKPAM Chandreshori Devi",
+    "first_name": "SHOUGRAKPAM Chandreshori",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-03-01",
+    "age": 46,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11583",
+    "profile_slug": "shubham-1994-06-10",
+    "name": "SHUBHAM",
+    "first_name": "SHUBHAM",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-06-10",
+    "age": 32,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11584",
+    "profile_slug": "simranpreet-kaur-1999-07-08",
+    "name": "SIMRANPREET Kaur",
+    "first_name": "Kaur",
+    "last_name": "SIMRANPREET",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-07-08",
+    "age": 26,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12322",
+    "profile_slug": "singh-ajay-1997-04-17",
+    "name": "SINGH Ajay",
+    "first_name": "Ajay",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-04-17",
+    "age": 29,
+    "current_category": "88 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5903",
+    "profile_slug": "singh-dalvir-1966-01-01",
+    "name": "SINGH Dalvir",
+    "first_name": "Dalvir",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1966-01-01",
+    "age": 60,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21861",
+    "profile_slug": "singh-dilbag-2004-10-13",
+    "name": "SINGH Dilbag",
+    "first_name": "Dilbag",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-10-13",
+    "age": 21,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6977",
+    "profile_slug": "singh-gurucharan-1980-01-01",
+    "name": "SINGH Gurucharan",
+    "first_name": "Gurucharan",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-01-01",
+    "age": 46,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18857",
+    "profile_slug": "singh-harcharan-2001-08-20",
+    "name": "SINGH Harcharan",
+    "first_name": "Harcharan",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-08-20",
+    "age": 24,
+    "current_category": "110 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5116",
+    "profile_slug": "singh-jasvir-1977-04-13",
+    "name": "SINGH Jasvir",
+    "first_name": "Jasvir",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1977-04-13",
+    "age": 49,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15255",
+    "profile_slug": "singh-karandeep-1999-09-09",
+    "name": "SINGH Karandeep",
+    "first_name": "Karandeep",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-09-09",
+    "age": 26,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5162",
+    "profile_slug": "singh-manjeet-1975-01-01",
+    "name": "SINGH Manjeet",
+    "first_name": "Manjeet",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1975-01-01",
+    "age": 51,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19921",
+    "profile_slug": "singh-paramvir-2006-10-05",
+    "name": "SINGH Paramvir",
+    "first_name": "Paramvir",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-10-05",
+    "age": 19,
+    "current_category": "+102 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11871",
+    "profile_slug": "singh-piyush-1999-12-27",
+    "name": "SINGH Piyush",
+    "first_name": "Piyush",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-12-27",
+    "age": 26,
+    "current_category": "50 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19816",
+    "profile_slug": "singh-sonam-2004-12-18",
+    "name": "SINGH Sonam",
+    "first_name": "Sonam",
+    "last_name": "SINGH",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-12-18",
+    "age": 21,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2254",
+    "profile_slug": "singh-srishti-1990-08-05",
+    "name": "SINGH Srishti",
+    "first_name": "Srishti",
+    "last_name": "SINGH",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-08-05",
+    "age": 35,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5148",
+    "profile_slug": "singh-sukhinder-1975-01-01",
+    "name": "SINGH Sukhinder",
+    "first_name": "Sukhinder",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1975-01-01",
+    "age": 51,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21673",
+    "profile_slug": "singh-sunil-2009-09-13",
+    "name": "SINGH Sunil",
+    "first_name": "Sunil",
+    "last_name": "SINGH",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2009-09-13",
+    "age": 16,
+    "current_category": "65 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6063",
+    "profile_slug": "singh-swati-1987-10-02",
+    "name": "SINGH Swati",
+    "first_name": "Swati",
+    "last_name": "SINGH",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-10-02",
+    "age": 38,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7237",
+    "profile_slug": "singh-vivek-kumar-1992-10-01",
+    "name": "SINGH Vivek Kumar",
+    "first_name": "SINGH Vivek",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-10-01",
+    "age": 33,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5415",
+    "profile_slug": "sivalingam-sathish-kumar-1992-06-23",
+    "name": "SIVALINGAM Sathish Kumar",
+    "first_name": "SIVALINGAM Sathish",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-06-23",
+    "age": 33,
+    "current_category": "81  kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9658",
+    "profile_slug": "solanki-vishal-1993-10-01",
+    "name": "SOLANKI Vishal",
+    "first_name": "Vishal",
+    "last_name": "SOLANKI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-10-01",
+    "age": 32,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "20811",
+    "profile_slug": "sonowal-ditimoni-2003-04-12",
+    "name": "SONOWAL Ditimoni",
+    "first_name": "Ditimoni",
+    "last_name": "SONOWAL",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-04-12",
+    "age": 23,
+    "current_category": "64 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8594",
+    "profile_slug": "sonowal-manalisha-1995-01-01",
+    "name": "SONOWAL Manalisha",
+    "first_name": "Manalisha",
+    "last_name": "SONOWAL",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-01-01",
+    "age": 31,
+    "current_category": "48 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21163",
+    "profile_slug": "sonowal-panchami-2005-05-05",
+    "name": "SONOWAL Panchami",
+    "first_name": "Panchami",
+    "last_name": "SONOWAL",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-05-05",
+    "age": 21,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14606",
+    "profile_slug": "soren-sneha-2001-05-02",
+    "name": "SOREN Sneha",
+    "first_name": "Sneha",
+    "last_name": "SOREN",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-05-02",
+    "age": 25,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13473",
+    "profile_slug": "sorokhaibam-bindyarani-devi-1999-01-27",
+    "name": "SOROKHAIBAM Bindyarani Devi",
+    "first_name": "SOROKHAIBAM Bindyarani",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-01-27",
+    "age": 27,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19912",
+    "profile_slug": "sreejith-anjana-2003-02-25",
+    "name": "SREEJITH Anjana",
+    "first_name": "Anjana",
+    "last_name": "SREEJITH",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-02-25",
+    "age": 23,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5284",
+    "profile_slug": "srinivasa-rao-1950-01-01",
+    "name": "SRINIVASA Rao",
+    "first_name": "Rao",
+    "last_name": "SRINIVASA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1950-01-01",
+    "age": 76,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8459",
+    "profile_slug": "srinivasan-manivannan-1992-09-05",
+    "name": "SRINIVASAN Manivannan",
+    "first_name": "Manivannan",
+    "last_name": "SRINIVASAN",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-09-05",
+    "age": 33,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8464",
+    "profile_slug": "subhasmita-mohanty-1995-11-27",
+    "name": "SUBHASMITA Mohanty",
+    "first_name": "Mohanty",
+    "last_name": "SUBHASMITA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-11-27",
+    "age": 30,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2725",
+    "profile_slug": "suman-1993-07-05",
+    "name": "SUMAN",
+    "first_name": "SUMAN",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-07-05",
+    "age": 32,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "5067",
+    "profile_slug": "sunaina-anand-1980-04-20",
+    "name": "SUNAINA Anand",
+    "first_name": "Anand",
+    "last_name": "SUNAINA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-04-20",
+    "age": 46,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3969",
+    "profile_slug": "sunita-rani-1987-07-17",
+    "name": "SUNITA Rani",
+    "first_name": "Rani",
+    "last_name": "SUNITA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1987-07-17",
+    "age": 38,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15196",
+    "profile_slug": "surajit-changmai-2003-06-22",
+    "name": "SURAJIT Changmai",
+    "first_name": "Changmai",
+    "last_name": "SURAJIT",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-06-22",
+    "age": 22,
+    "current_category": "50 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8488",
+    "profile_slug": "swapna-priya-baruah-1996-09-24",
+    "name": "SWAPNA Priya Baruah",
+    "first_name": "SWAPNA Priya",
+    "last_name": "Baruah",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-09-24",
+    "age": 29,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11107",
+    "profile_slug": "taba-kojum-1997-06-18",
+    "name": "TABA Kojum",
+    "first_name": "Kojum",
+    "last_name": "TABA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-06-18",
+    "age": 28,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7489",
+    "profile_slug": "tagru-sorom-hitlar-1996-02-07",
+    "name": "TAGRU Sorom Hitlar",
+    "first_name": "TAGRU Sorom",
+    "last_name": "Hitlar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-02-07",
+    "age": 30,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7146",
+    "profile_slug": "tajo-menu-1994-03-04",
+    "name": "TAJO Menu",
+    "first_name": "Menu",
+    "last_name": "TAJO",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-03-04",
+    "age": 32,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9343",
+    "profile_slug": "taku-lalu-1998-12-08",
+    "name": "TAKU Lalu",
+    "first_name": "Lalu",
+    "last_name": "TAKU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-12-08",
+    "age": 27,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18171",
+    "profile_slug": "tama-sosar-2006-01-16",
+    "name": "TAMA Sosar",
+    "first_name": "Sosar",
+    "last_name": "TAMA",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-01-16",
+    "age": 20,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21602",
+    "profile_slug": "tani-bengia-2004-02-26",
+    "name": "TANI Bengia",
+    "first_name": "Bengia",
+    "last_name": "TANI",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-02-26",
+    "age": 22,
+    "current_category": "67 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21930",
+    "profile_slug": "tara-pungni-2008-07-25",
+    "name": "TARA Pungni",
+    "first_name": "Pungni",
+    "last_name": "TARA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-07-25",
+    "age": 17,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8539",
+    "profile_slug": "tarafdar-chandrika-1996-10-12",
+    "name": "TARAFDAR Chandrika",
+    "first_name": "Chandrika",
+    "last_name": "TARAFDAR",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-10-12",
+    "age": 29,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16894",
+    "profile_slug": "tatgunti-aarati-2005-06-22",
+    "name": "TATGUNTI Aarati",
+    "first_name": "Aarati",
+    "last_name": "TATGUNTI",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2005-06-22",
+    "age": 20,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "9291",
+    "profile_slug": "tbc-lalchhanhima-1997-03-21",
+    "name": "TBC Lalchhanhima",
+    "first_name": "Lalchhanhima",
+    "last_name": "TBC",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-03-21",
+    "age": 29,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "15309",
+    "profile_slug": "tejpal-singh-sandhu-1998-12-25",
+    "name": "TEJPAL Singh Sandhu",
+    "first_name": "TEJPAL Singh",
+    "last_name": "Sandhu",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1998-12-25",
+    "age": 27,
+    "current_category": "+105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8495",
+    "profile_slug": "thakur-vikas-1993-11-14",
+    "name": "THAKUR Vikas",
+    "first_name": "Vikas",
+    "last_name": "THAKUR",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1993-11-14",
+    "age": 32,
+    "current_category": "96 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21950",
+    "profile_slug": "thorat-grishma-2008-03-25",
+    "name": "THORAT Grishma",
+    "first_name": "Grishma",
+    "last_name": "THORAT",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2008-03-25",
+    "age": 18,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12770",
+    "profile_slug": "thuram-priyadarshini-2000-03-03",
+    "name": "THURAM Priyadarshini",
+    "first_name": "Priyadarshini",
+    "last_name": "THURAM",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-03-03",
+    "age": 26,
+    "current_category": "44 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8429",
+    "profile_slug": "tikina-gopal-tikina-1980-07-05",
+    "name": "TIKINA Gopal Tikina",
+    "first_name": "TIKINA Gopal",
+    "last_name": "Tikina",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1980-07-05",
+    "age": 45,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14540",
+    "profile_slug": "todkar-shubham-tanaji-1997-05-19",
+    "name": "TODKAR Shubham Tanaji",
+    "first_name": "TODKAR Shubham",
+    "last_name": "Tanaji",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-05-19",
+    "age": 29,
+    "current_category": "61 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "1775",
+    "profile_slug": "tongbram-chanu-inurani-1984-12-22",
+    "name": "TONGBRAM Chanu Inurani",
+    "first_name": "TONGBRAM Chanu",
+    "last_name": "Inurani",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1984-12-22",
+    "age": 41,
+    "current_category": "63 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3293",
+    "profile_slug": "toppo-anupdeo-1990-05-06",
+    "name": "TOPPO Anupdeo",
+    "first_name": "Anupdeo",
+    "last_name": "TOPPO",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-05-06",
+    "age": 36,
+    "current_category": "77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19350",
+    "profile_slug": "tufail-tufail-2007-01-15",
+    "name": "TUFAIL Tufail",
+    "first_name": "Tufail",
+    "last_name": "TUFAIL",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-01-15",
+    "age": 19,
+    "current_category": "49 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18848",
+    "profile_slug": "tugnait-nikhil-1999-11-09",
+    "name": "TUGNAIT Nikhil",
+    "first_name": "Nikhil",
+    "last_name": "TUGNAIT",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-11-09",
+    "age": 26,
+    "current_category": "89 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "16927",
+    "profile_slug": "usha--2003-02-09",
+    "name": "USHA",
+    "first_name": "USHA",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-02-09",
+    "age": 23,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19812",
+    "profile_slug": "usha-usha-2003-09-02",
+    "name": "USHA Usha",
+    "first_name": "Usha",
+    "last_name": "USHA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-09-02",
+    "age": 22,
+    "current_category": "55 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2212",
+    "profile_slug": "valluri-srinavasa-rao-1981-10-20",
+    "name": "VALLURI Srinavasa Rao",
+    "first_name": "VALLURI Srinavasa",
+    "last_name": "Rao",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1981-10-20",
+    "age": 44,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "22718",
+    "profile_slug": "vashanvi-2010-05-20",
+    "name": "VASHANVI",
+    "first_name": "VASHANVI",
+    "last_name": "",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2010-05-20",
+    "age": 16,
+    "current_category": "+77 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11585",
+    "profile_slug": "veerender-singh-1990-04-08",
+    "name": "VEERENDER Singh",
+    "first_name": "Singh",
+    "last_name": "VEERENDER",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1990-04-08",
+    "age": 36,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3749",
+    "profile_slug": "velu-vinoth-kumar-1984-01-01",
+    "name": "VELU Vinoth Kumar",
+    "first_name": "VELU Vinoth",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1984-01-01",
+    "age": 42,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3726",
+    "profile_slug": "veni-neelam-setty-1982-01-01",
+    "name": "VENI NEELAM Setty",
+    "first_name": "Setty",
+    "last_name": "VENI NEELAM",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1982-01-01",
+    "age": 44,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18809",
+    "profile_slug": "verma-vanshita-2001-10-08",
+    "name": "VERMA Vanshita",
+    "first_name": "Vanshita",
+    "last_name": "VERMA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-10-08",
+    "age": 24,
+    "current_category": "86 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "6056",
+    "profile_slug": "victor-abilash-christopher-1986-07-15",
+    "name": "VICTOR Abilash Christopher",
+    "first_name": "VICTOR Abilash",
+    "last_name": "Christopher",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1986-07-15",
+    "age": 39,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11586",
+    "profile_slug": "vikas-kumar-1991-04-10",
+    "name": "VIKAS Kumar",
+    "first_name": "Kumar",
+    "last_name": "VIKAS",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-04-10",
+    "age": 35,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18563",
+    "profile_slug": "vishavjeet-singh-2006-06-30",
+    "name": "VISHAVJEET Singh",
+    "first_name": "Singh",
+    "last_name": "VISHAVJEET",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-06-30",
+    "age": 19,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3001",
+    "profile_slug": "vishe-minal-vilas-1992-03-08",
+    "name": "VISHE Minal Vilas",
+    "first_name": "VISHE Minal",
+    "last_name": "Vilas",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-03-08",
+    "age": 34,
+    "current_category": "75 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3368",
+    "profile_slug": "vompu-prabhakar-1991-12-29",
+    "name": "VOMPU Prabhakar",
+    "first_name": "Prabhakar",
+    "last_name": "VOMPU",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-12-29",
+    "age": 34,
+    "current_category": "105 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18168",
+    "profile_slug": "vyavhare-kishor-akanksha-2007-06-19",
+    "name": "VYAVHARE Kishor Akanksha",
+    "first_name": "VYAVHARE Kishor",
+    "last_name": "Akanksha",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2007-06-19",
+    "age": 18,
+    "current_category": "45 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12771",
+    "profile_slug": "wadekar-harshad-subhash-1995-06-14",
+    "name": "WADEKAR Harshad Subhash",
+    "first_name": "WADEKAR Harshad",
+    "last_name": "Subhash",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-06-14",
+    "age": 30,
+    "current_category": "94 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11587",
+    "profile_slug": "walia-kamaldeep-kaur-1977-02-20",
+    "name": "WALIA Kamaldeep Kaur",
+    "first_name": "WALIA Kamaldeep",
+    "last_name": "Kaur",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1977-02-20",
+    "age": 49,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14200",
+    "profile_slug": "warepam-sapana-devi-2003-01-15",
+    "name": "WAREPAM Sapana Devi",
+    "first_name": "WAREPAM Sapana",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-01-15",
+    "age": 23,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18590",
+    "profile_slug": "y.-chaitna-kumari-2006-08-12",
+    "name": "Y. CHAITNA Kumari",
+    "first_name": "Kumari",
+    "last_name": "Y. CHAITNA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2006-08-12",
+    "age": 19,
+    "current_category": "81 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "19902",
+    "profile_slug": "yadav-alok-2003-12-29",
+    "name": "YADAV Alok",
+    "first_name": "Alok",
+    "last_name": "YADAV",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-12-29",
+    "age": 22,
+    "current_category": "96 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7632",
+    "profile_slug": "yadav-deepak-1991-12-25",
+    "name": "YADAV Deepak",
+    "first_name": "Deepak",
+    "last_name": "YADAV",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-12-25",
+    "age": 34,
+    "current_category": "85 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "18051",
+    "profile_slug": "yadav-gyaneshwari-2003-03-08",
+    "name": "YADAV Gyaneshwari",
+    "first_name": "Gyaneshwari",
+    "last_name": "YADAV",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2003-03-08",
+    "age": 23,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "10531",
+    "profile_slug": "yadav-punam-1995-07-09",
+    "name": "YADAV Punam",
+    "first_name": "Punam",
+    "last_name": "YADAV",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1995-07-09",
+    "age": 30,
+    "current_category": "76 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "21611",
+    "profile_slug": "yalam-balo-2004-08-08",
+    "name": "YALAM Balo",
+    "first_name": "Balo",
+    "last_name": "YALAM",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2004-08-08",
+    "age": 21,
+    "current_category": "59 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "7611",
+    "profile_slug": "yana-takio-1994-12-16",
+    "name": "YANA Takio",
+    "first_name": "Takio",
+    "last_name": "YANA",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1994-12-16",
+    "age": 31,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "11752",
+    "profile_slug": "yangfo-gungte-1999-03-24",
+    "name": "YANGFO Gungte",
+    "first_name": "Gungte",
+    "last_name": "YANGFO",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1999-03-24",
+    "age": 27,
+    "current_category": "50 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "13656",
+    "profile_slug": "yeadula-shiva-kumar-1989-03-06",
+    "name": "YEADULA Shiva Kumar",
+    "first_name": "YEADULA Shiva",
+    "last_name": "Kumar",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1989-03-06",
+    "age": 37,
+    "current_category": "56 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "2796",
+    "profile_slug": "yukar-sibi-1992-05-07",
+    "name": "YUKAR Sibi",
+    "first_name": "Sibi",
+    "last_name": "YUKAR",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1992-05-07",
+    "age": 34,
+    "current_category": "62 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "12772",
+    "profile_slug": "yukar-tachak-2000-05-02",
+    "name": "YUKAR Tachak",
+    "first_name": "Tachak",
+    "last_name": "YUKAR",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2000-05-02",
+    "age": 26,
+    "current_category": "",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8487",
+    "profile_slug": "yumkhaibam-nafisa-1996-06-06",
+    "name": "YUMKHAIBAM Nafisa",
+    "first_name": "Nafisa",
+    "last_name": "YUMKHAIBAM",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1996-06-06",
+    "age": 30,
+    "current_category": "69 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "3263",
+    "profile_slug": "yumnam-chaoba-devi-1991-11-07",
+    "name": "YUMNAM Chaoba Devi",
+    "first_name": "YUMNAM Chaoba",
+    "last_name": "Devi",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1991-11-07",
+    "age": 34,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "8604",
+    "profile_slug": "yumnam-khomdonbi-chanu-1997-04-01",
+    "name": "YUMNAM Khomdonbi Chanu",
+    "first_name": "YUMNAM Khomdonbi",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1997-04-01",
+    "age": 29,
+    "current_category": "53 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "1754",
+    "profile_slug": "yumnam-renu-bala-chanu-1986-10-02",
+    "name": "YUMNAM Renu Bala Chanu",
+    "first_name": "YUMNAM Renu Bala",
+    "last_name": "Chanu",
+    "gender": "Female",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "1986-10-02",
+    "age": 39,
+    "current_category": "58 kg",
+    "team": "India"
+  },
+  {
+    "athlete_id": "14018",
+    "profile_slug": "zakhuma-2001-04-01",
+    "name": "ZAKHUMA",
+    "first_name": "ZAKHUMA",
+    "last_name": "",
+    "gender": "Male",
+    "country": {
+      "code": "IND",
+      "name": "India"
+    },
+    "dob": "2001-04-01",
+    "age": 25,
+    "current_category": "56 kg",
+    "team": "India"
+  }
+]
