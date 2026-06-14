@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "6200",
+    "name": "SAHU Susant",
+    "gender": "Male",
+    "dob": "1991-05-18",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=160",
+    "event_name": "2011 IWF JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 29, 2011",
+    "rank": "19",
+    "category": "56 kg",
+    "bodyweight": "55.97",
+    "snatch": "92",
+    "clean_and_jerk": "120",
+    "total": "212"
+  },
+  {
+    "athlete_id": "6200",
+    "name": "SAHU Susant",
+    "gender": "Male",
+    "dob": "1991-05-18",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=124",
+    "event_name": "IWF CONTINENTAL CLUBS GRAND PRIX",
+    "date": "Dec 11, 2010",
+    "rank": "6",
+    "category": "56 kg",
+    "bodyweight": "55.74",
+    "snatch": "96",
+    "clean_and_jerk": "120",
+    "total": "216"
+  }
+]

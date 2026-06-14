@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "5988",
+    "name": "SHOUGRAKPAM Chandreshori Devi",
+    "gender": "Female",
+    "dob": "1980-03-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=142",
+    "event_name": "23RD WOMEN'S AND 42ND MEN'S ASIAN CHAMPIONSHIPS",
+    "date": "Apr 09, 2011",
+    "rank": "8",
+    "category": "58 kg",
+    "bodyweight": "57.68",
+    "snatch": "80",
+    "clean_and_jerk": "98",
+    "total": "178"
+  },
+  {
+    "athlete_id": "5988",
+    "name": "SHOUGRAKPAM Chandreshori Devi",
+    "gender": "Female",
+    "dob": "1980-03-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=116",
+    "event_name": "78th MEN's and 21st WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Sep 16, 2010",
+    "rank": "24",
+    "category": "58 kg",
+    "bodyweight": "57.74",
+    "snatch": "80",
+    "clean_and_jerk": "98",
+    "total": "178"
+  }
+]

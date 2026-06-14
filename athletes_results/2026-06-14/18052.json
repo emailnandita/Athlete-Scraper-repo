@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "18052",
+    "name": "RITHIKA V",
+    "gender": "Female",
+    "dob": "2004-07-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=564",
+    "event_name": "Asian Junior Championships",
+    "date": "Jul 15, 2022",
+    "rank": "6",
+    "category": "49 kg",
+    "bodyweight": "49.00",
+    "snatch": "71",
+    "clean_and_jerk": "83",
+    "total": "154"
+  },
+  {
+    "athlete_id": "18052",
+    "name": "RITHIKA V",
+    "gender": "Female",
+    "dob": "2004-07-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=529",
+    "event_name": "2022 IWF Junior World Championships",
+    "date": "May 02, 2022",
+    "rank": "3",
+    "category": "49 kg",
+    "bodyweight": "48.90",
+    "snatch": "69",
+    "clean_and_jerk": "81",
+    "total": "150"
+  }
+]

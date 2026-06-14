@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "15212",
+    "name": "LAMABAM Nilam Devi",
+    "gender": "Female",
+    "dob": "2004-06-10",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=612",
+    "event_name": "Asian Junior Championships",
+    "date": "Dec 19, 2024",
+    "rank": "2",
+    "category": "55 kg",
+    "bodyweight": "55.00",
+    "snatch": "86",
+    "clean_and_jerk": "104",
+    "total": "190"
+  },
+  {
+    "athlete_id": "15212",
+    "name": "LAMABAM Nilam Devi",
+    "gender": "Female",
+    "dob": "2004-06-10",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=610",
+    "event_name": "2024 IWF World Junior Championships",
+    "date": "Sep 19, 2024",
+    "rank": "6",
+    "category": "55 kg",
+    "bodyweight": "54.96",
+    "snatch": "84",
+    "clean_and_jerk": "100",
+    "total": "184"
+  },
+  {
+    "athlete_id": "15212",
+    "name": "LAMABAM Nilam Devi",
+    "gender": "Female",
+    "dob": "2004-06-10",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=420",
+    "event_name": "2018 ASIAN YOUTH CHAMPIONSHIPS",
+    "date": "Apr 20, 2018",
+    "rank": "4",
+    "category": "53 kg",
+    "bodyweight": "52.30",
+    "snatch": "71",
+    "clean_and_jerk": "93",
+    "total": "164"
+  }
+]

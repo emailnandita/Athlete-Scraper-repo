@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "11568",
+    "name": "DUBEY Prafull Kumar",
+    "gender": "Male",
+    "dob": "1984-03-16",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=337",
+    "event_name": "2015 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Oct 11, 2015",
+    "rank": "3",
+    "category": "105 kg",
+    "bodyweight": "104.22",
+    "snatch": "141",
+    "clean_and_jerk": "183",
+    "total": "324"
+  },
+  {
+    "athlete_id": "11568",
+    "name": "DUBEY Prafull Kumar",
+    "gender": "Male",
+    "dob": "1984-03-16",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=333",
+    "event_name": "ASIAN CHAMPIONSHIPS",
+    "date": "Sep 06, 2015",
+    "rank": "7",
+    "category": "105 kg",
+    "bodyweight": "104.35",
+    "snatch": "148",
+    "clean_and_jerk": "185",
+    "total": "333"
+  }
+]

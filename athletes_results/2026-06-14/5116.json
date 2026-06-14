@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "5116",
+    "name": "SINGH Jasvir",
+    "gender": "Male",
+    "dob": "1977-04-13",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=89",
+    "event_name": "71st MEN's and 14th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Nov 04, 2001",
+    "rank": "12",
+    "category": "62 kg",
+    "bodyweight": "61.74",
+    "snatch": "115",
+    "clean_and_jerk": "142.5",
+    "total": "257.5"
+  }
+]

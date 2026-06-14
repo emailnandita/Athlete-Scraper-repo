@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "21966",
+    "name": "BHOI Bidusmita",
+    "gender": "Female",
+    "dob": "2005-07-31",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=660",
+    "event_name": "Commonwealth Junior Championships",
+    "date": "Aug 24, 2025",
+    "rank": "1",
+    "category": "63 kg",
+    "bodyweight": "62.03",
+    "snatch": "89",
+    "clean_and_jerk": "115",
+    "total": "204"
+  },
+  {
+    "athlete_id": "21966",
+    "name": "BHOI Bidusmita",
+    "gender": "Female",
+    "dob": "2005-07-31",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=652",
+    "event_name": "Asian Junior Championships",
+    "date": "Jul 04, 2025",
+    "rank": "4",
+    "category": "63 kg",
+    "bodyweight": "61.25",
+    "snatch": "86",
+    "clean_and_jerk": "108",
+    "total": "194"
+  }
+]

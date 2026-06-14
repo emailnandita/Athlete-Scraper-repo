@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "14164",
+    "name": "KALE Nikeeta Valmik",
+    "gender": "Female",
+    "dob": "2000-07-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=393",
+    "event_name": "COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Sep 03, 2017",
+    "rank": "1",
+    "category": "69 kg",
+    "bodyweight": "63.99",
+    "snatch": "73",
+    "clean_and_jerk": "90",
+    "total": "163"
+  },
+  {
+    "athlete_id": "14164",
+    "name": "KALE Nikeeta Valmik",
+    "gender": "Female",
+    "dob": "2000-07-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=378",
+    "event_name": "2017 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "Apr 03, 2017",
+    "rank": "13",
+    "category": "69 kg",
+    "bodyweight": "63.25",
+    "snatch": "75",
+    "clean_and_jerk": "85",
+    "total": "160"
+  }
+]

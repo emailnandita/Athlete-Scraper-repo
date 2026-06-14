@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "7613",
+    "name": "JAGDISH",
+    "gender": "Male",
+    "dob": "1994-08-11",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=522",
+    "event_name": "2021 IWF World Championships",
+    "date": "Dec 07, 2021",
+    "rank": "22",
+    "category": "96 kg",
+    "bodyweight": "95.50",
+    "snatch": "142",
+    "clean_and_jerk": "186",
+    "total": "328"
+  },
+  {
+    "athlete_id": "7613",
+    "name": "JAGDISH",
+    "gender": "Male",
+    "dob": "1994-08-11",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=527",
+    "event_name": "2021 Commonwealth Senior Championships",
+    "date": "Dec 07, 2021",
+    "rank": "4",
+    "category": "96 kg",
+    "bodyweight": "95.50",
+    "snatch": "142",
+    "clean_and_jerk": "186",
+    "total": "328"
+  },
+  {
+    "athlete_id": "7613",
+    "name": "JAGDISH",
+    "gender": "Male",
+    "dob": "1994-08-11",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=178",
+    "event_name": "2011 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "1",
+    "category": "69 kg",
+    "bodyweight": "68.28",
+    "snatch": "104",
+    "clean_and_jerk": "130",
+    "total": "234"
+  }
+]

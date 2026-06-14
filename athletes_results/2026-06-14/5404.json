@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "5404",
+    "name": "SEERA Chandrakala",
+    "gender": "Female",
+    "dob": "1992-08-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=93",
+    "event_name": "36th MEN's and 16th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 11, 2010",
+    "rank": "11",
+    "category": "63 kg",
+    "bodyweight": "62.37",
+    "snatch": "78",
+    "clean_and_jerk": "106",
+    "total": "184"
+  },
+  {
+    "athlete_id": "5404",
+    "name": "SEERA Chandrakala",
+    "gender": "Female",
+    "dob": "1992-08-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=113",
+    "event_name": "ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Apr 12, 2010",
+    "rank": "2",
+    "category": "63 kg",
+    "bodyweight": "62.40",
+    "snatch": "76",
+    "clean_and_jerk": "107",
+    "total": "183"
+  }
+]

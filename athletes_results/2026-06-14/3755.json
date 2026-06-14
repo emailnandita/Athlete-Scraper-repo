@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "3755",
+    "name": "GHAGARE Swapnil Babaso",
+    "gender": "Male",
+    "dob": "1990-09-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=93",
+    "event_name": "36th MEN's and 16th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 11, 2010",
+    "rank": "13",
+    "category": "56 kg",
+    "bodyweight": "55.65",
+    "snatch": "95",
+    "clean_and_jerk": "121",
+    "total": "216"
+  },
+  {
+    "athlete_id": "3755",
+    "name": "GHAGARE Swapnil Babaso",
+    "gender": "Male",
+    "dob": "1990-09-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=113",
+    "event_name": "ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Apr 12, 2010",
+    "rank": "4",
+    "category": "56 kg",
+    "bodyweight": "55.90",
+    "snatch": "98",
+    "clean_and_jerk": "124",
+    "total": "222"
+  },
+  {
+    "athlete_id": "3755",
+    "name": "GHAGARE Swapnil Babaso",
+    "gender": "Male",
+    "dob": "1990-09-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=55",
+    "event_name": "2009 COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Oct 19, 2009",
+    "rank": "2",
+    "category": "56 kg",
+    "bodyweight": "55.88",
+    "snatch": "98",
+    "clean_and_jerk": "125",
+    "total": "223"
+  }
+]

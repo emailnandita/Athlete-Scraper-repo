@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "22718",
+    "name": "VASHANVI",
+    "gender": "Female",
+    "dob": "2010-05-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=685",
+    "event_name": "Commonwealth Youth Championships",
+    "date": "Apr 27, 2026",
+    "rank": "4",
+    "category": "+77 kg",
+    "bodyweight": "80.65",
+    "snatch": "86",
+    "clean_and_jerk": "107",
+    "total": "193"
+  }
+]

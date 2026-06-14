@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "8136",
+    "name": "CHINCHWADE Ranjit Kalgonda",
+    "gender": "Male",
+    "dob": "1991-04-28",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=212",
+    "event_name": "2012 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Jun 04, 2012",
+    "rank": "1",
+    "category": "56 kg",
+    "bodyweight": "55.86",
+    "snatch": "99",
+    "clean_and_jerk": "125",
+    "total": "224"
+  },
+  {
+    "athlete_id": "8136",
+    "name": "CHINCHWADE Ranjit Kalgonda",
+    "gender": "Male",
+    "dob": "1991-04-28",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=205",
+    "event_name": "2012 ASIAN CHAMPIONSHIPS",
+    "date": "Apr 22, 2012",
+    "rank": "10",
+    "category": "56 kg",
+    "bodyweight": "55.92",
+    "snatch": "105",
+    "clean_and_jerk": "135",
+    "total": "240"
+  },
+  {
+    "athlete_id": "8136",
+    "name": "CHINCHWADE Ranjit Kalgonda",
+    "gender": "Male",
+    "dob": "1991-04-28",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=124",
+    "event_name": "IWF CONTINENTAL CLUBS GRAND PRIX",
+    "date": "Dec 11, 2010",
+    "rank": "4",
+    "category": "56 kg",
+    "bodyweight": "55.40",
+    "snatch": "100",
+    "clean_and_jerk": "126",
+    "total": "226"
+  }
+]

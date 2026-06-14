@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "18809",
+    "name": "VERMA Vanshita",
+    "gender": "Female",
+    "dob": "2001-10-08",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=661",
+    "event_name": "2025 IWF World Championships",
+    "date": "Oct 02, 2025",
+    "rank": "17",
+    "category": "86 kg",
+    "bodyweight": "84.05",
+    "snatch": "90",
+    "clean_and_jerk": "128",
+    "total": "218"
+  },
+  {
+    "athlete_id": "18809",
+    "name": "VERMA Vanshita",
+    "gender": "Female",
+    "dob": "2001-10-08",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=658",
+    "event_name": "Commonwealth Championships",
+    "date": "Aug 24, 2025",
+    "rank": "3",
+    "category": "86 kg",
+    "bodyweight": "82.49",
+    "snatch": "95",
+    "clean_and_jerk": "127",
+    "total": "222"
+  },
+  {
+    "athlete_id": "18809",
+    "name": "VERMA Vanshita",
+    "gender": "Female",
+    "dob": "2001-10-08",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=556",
+    "event_name": "Asian Championships",
+    "date": "Oct 06, 2022",
+    "rank": "6",
+    "category": "81 kg",
+    "bodyweight": "80.32",
+    "snatch": "88",
+    "clean_and_jerk": "116",
+    "total": "204"
+  }
+]

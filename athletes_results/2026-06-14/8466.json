@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "8466",
+    "name": "JASVIR Kaur",
+    "gender": "Female",
+    "dob": "1993-02-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=262",
+    "event_name": "2013 COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Nov 24, 2013",
+    "rank": "2",
+    "category": "63 kg",
+    "bodyweight": "62.50",
+    "snatch": "83",
+    "clean_and_jerk": "103",
+    "total": "186"
+  },
+  {
+    "athlete_id": "8466",
+    "name": "JASVIR Kaur",
+    "gender": "Female",
+    "dob": "1993-02-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=213",
+    "event_name": "2012 COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Jun 04, 2012",
+    "rank": "3",
+    "category": "63 kg",
+    "bodyweight": "61.55",
+    "snatch": "66",
+    "clean_and_jerk": "89",
+    "total": "155"
+  }
+]

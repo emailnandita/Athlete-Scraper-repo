@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "8487",
+    "name": "YUMKHAIBAM Nafisa",
+    "gender": "Female",
+    "dob": "1996-06-06",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=215",
+    "event_name": "2012 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "Sep 18, 2012",
+    "rank": "10",
+    "category": "69 kg",
+    "bodyweight": "68.79",
+    "snatch": "64",
+    "clean_and_jerk": "83",
+    "total": "147"
+  },
+  {
+    "athlete_id": "8487",
+    "name": "YUMKHAIBAM Nafisa",
+    "gender": "Female",
+    "dob": "1996-06-06",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=211",
+    "event_name": "2012 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Jun 04, 2012",
+    "rank": "1",
+    "category": "69 kg",
+    "bodyweight": "68.25",
+    "snatch": "62",
+    "clean_and_jerk": "85",
+    "total": "147"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "7623",
+    "name": "DEVI Lairenmayum Premeshwori",
+    "gender": "Female",
+    "dob": "1984-12-11",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=240",
+    "event_name": "ASIAN CHAMPIONSHIPS",
+    "date": "Jun 20, 2013",
+    "rank": "10",
+    "category": "58 kg",
+    "bodyweight": "57.24",
+    "snatch": "80",
+    "clean_and_jerk": "97",
+    "total": "177"
+  },
+  {
+    "athlete_id": "7623",
+    "name": "DEVI Lairenmayum Premeshwori",
+    "gender": "Female",
+    "dob": "1984-12-11",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=180",
+    "event_name": "2011 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "4",
+    "category": "58 kg",
+    "bodyweight": "57.78",
+    "snatch": "78",
+    "clean_and_jerk": "100",
+    "total": "178"
+  },
+  {
+    "athlete_id": "7623",
+    "name": "DEVI Lairenmayum Premeshwori",
+    "gender": "Female",
+    "dob": "1984-12-11",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=43",
+    "event_name": "21st ASIAN SENIOR WOMEN'S 40th ASIAN SENIOR MEN'S CHAMPIONSHIPS",
+    "date": "May 09, 2009",
+    "rank": "7",
+    "category": "58 kg",
+    "bodyweight": "58.00",
+    "snatch": "80",
+    "clean_and_jerk": "97",
+    "total": "177"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "9658",
+    "name": "SOLANKI Vishal",
+    "gender": "Male",
+    "dob": "1993-10-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=271",
+    "event_name": "ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Jul 01, 2013",
+    "rank": "5",
+    "category": "+105 kg",
+    "bodyweight": "112.00",
+    "snatch": "134",
+    "clean_and_jerk": "170",
+    "total": "304"
+  },
+  {
+    "athlete_id": "9658",
+    "name": "SOLANKI Vishal",
+    "gender": "Male",
+    "dob": "1993-10-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=239",
+    "event_name": "2013 IWF JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "May 03, 2013",
+    "rank": "11",
+    "category": "+105 kg",
+    "bodyweight": "110.94",
+    "snatch": "130",
+    "clean_and_jerk": "168",
+    "total": "298"
+  }
+]

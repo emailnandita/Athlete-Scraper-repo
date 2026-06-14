@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "15285",
+    "name": "SEHRAWAT Harshit",
+    "gender": "Male",
+    "dob": "2000-05-04",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=556",
+    "event_name": "Asian Championships",
+    "date": "Oct 06, 2022",
+    "rank": "5",
+    "category": "102 kg",
+    "bodyweight": "101.74",
+    "snatch": "144",
+    "clean_and_jerk": "184",
+    "total": "328"
+  },
+  {
+    "athlete_id": "15285",
+    "name": "SEHRAWAT Harshit",
+    "gender": "Male",
+    "dob": "2000-05-04",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=421",
+    "event_name": "2018 ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Apr 20, 2018",
+    "rank": "9",
+    "category": "94 kg",
+    "bodyweight": "92.50",
+    "snatch": "125",
+    "clean_and_jerk": "145",
+    "total": "270"
+  }
+]

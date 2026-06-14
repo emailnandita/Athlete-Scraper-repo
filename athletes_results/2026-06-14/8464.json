@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "8464",
+    "name": "SUBHASMITA Mohanty",
+    "gender": "Female",
+    "dob": "1995-11-27",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=211",
+    "event_name": "2012 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Jun 04, 2012",
+    "rank": "3",
+    "category": "63 kg",
+    "bodyweight": "61.64",
+    "snatch": "60",
+    "clean_and_jerk": "75",
+    "total": "135"
+  },
+  {
+    "athlete_id": "8464",
+    "name": "SUBHASMITA Mohanty",
+    "gender": "Female",
+    "dob": "1995-11-27",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=178",
+    "event_name": "2011 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "1",
+    "category": "63 kg",
+    "bodyweight": "62.30",
+    "snatch": "60",
+    "clean_and_jerk": "72",
+    "total": "132"
+  }
+]

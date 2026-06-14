@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "3351",
+    "name": "KAINTURA Reena",
+    "gender": "Female",
+    "dob": "1991-01-15",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=93",
+    "event_name": "36th MEN's and 16th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 11, 2010",
+    "rank": "12",
+    "category": "+75 kg",
+    "bodyweight": "79.90",
+    "snatch": "77",
+    "clean_and_jerk": "95",
+    "total": "172"
+  },
+  {
+    "athlete_id": "3351",
+    "name": "KAINTURA Reena",
+    "gender": "Female",
+    "dob": "1991-01-15",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=55",
+    "event_name": "2009 COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Oct 19, 2009",
+    "rank": "1",
+    "category": "69 kg",
+    "bodyweight": "65.00",
+    "snatch": "76",
+    "clean_and_jerk": "91",
+    "total": "167"
+  },
+  {
+    "athlete_id": "3351",
+    "name": "KAINTURA Reena",
+    "gender": "Female",
+    "dob": "1991-01-15",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=25",
+    "event_name": "35th MEN's and 15th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 14, 2009",
+    "rank": "15",
+    "category": "+75 kg",
+    "bodyweight": "78.58",
+    "snatch": "70",
+    "clean_and_jerk": "87",
+    "total": "157"
+  }
+]

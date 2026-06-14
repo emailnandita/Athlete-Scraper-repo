@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "3967",
+    "name": "MAIBAM Sunibala Devi",
+    "gender": "Female",
+    "dob": "1989-03-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=190",
+    "event_name": "2011 IWF WORLD CHAMPIONSHIPS",
+    "date": "Nov 04, 2011",
+    "rank": "26",
+    "category": "58 kg",
+    "bodyweight": "57.36",
+    "snatch": "76",
+    "clean_and_jerk": "100",
+    "total": "176"
+  },
+  {
+    "athlete_id": "3967",
+    "name": "MAIBAM Sunibala Devi",
+    "gender": "Female",
+    "dob": "1989-03-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=180",
+    "event_name": "2011 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "3",
+    "category": "58 kg",
+    "bodyweight": "57.74",
+    "snatch": "79",
+    "clean_and_jerk": "102",
+    "total": "181"
+  },
+  {
+    "athlete_id": "3967",
+    "name": "MAIBAM Sunibala Devi",
+    "gender": "Female",
+    "dob": "1989-03-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=43",
+    "event_name": "21st ASIAN SENIOR WOMEN'S 40th ASIAN SENIOR MEN'S CHAMPIONSHIPS",
+    "date": "May 09, 2009",
+    "rank": "8",
+    "category": "58 kg",
+    "bodyweight": "57.35",
+    "snatch": "74",
+    "clean_and_jerk": "93",
+    "total": "167"
+  }
+]

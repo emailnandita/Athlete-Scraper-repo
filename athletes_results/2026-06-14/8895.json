@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "8895",
+    "name": "ASHUTOSH Singh",
+    "gender": "Male",
+    "dob": "1995-12-17",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=220",
+    "event_name": "ASIAN YOUTH CHAMPIONSHIPS",
+    "date": "Nov 08, 2012",
+    "rank": "4",
+    "category": "85 kg",
+    "bodyweight": "83.90",
+    "snatch": "110",
+    "clean_and_jerk": "148",
+    "total": "258"
+  }
+]

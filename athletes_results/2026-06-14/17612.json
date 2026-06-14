@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "17612",
+    "name": "RAMASUNDARA PANDI Arockiya Alish",
+    "gender": "Female",
+    "dob": "2000-11-05",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=522",
+    "event_name": "2021 IWF World Championships",
+    "date": "Dec 07, 2021",
+    "rank": "9",
+    "category": "76 kg",
+    "bodyweight": "75.40",
+    "snatch": "91",
+    "clean_and_jerk": "123",
+    "total": "214"
+  },
+  {
+    "athlete_id": "17612",
+    "name": "RAMASUNDARA PANDI Arockiya Alish",
+    "gender": "Female",
+    "dob": "2000-11-05",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=527",
+    "event_name": "2021 Commonwealth Senior Championships",
+    "date": "Dec 07, 2021",
+    "rank": "3",
+    "category": "76 kg",
+    "bodyweight": "75.40",
+    "snatch": "91",
+    "clean_and_jerk": "123",
+    "total": "214"
+  },
+  {
+    "athlete_id": "17612",
+    "name": "RAMASUNDARA PANDI Arockiya Alish",
+    "gender": "Female",
+    "dob": "2000-11-05",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=468",
+    "event_name": "2019 Commonwealth Junior Championships",
+    "date": "Jul 09, 2019",
+    "rank": "2",
+    "category": "76 kg",
+    "bodyweight": "74.75",
+    "snatch": "79",
+    "clean_and_jerk": "109",
+    "total": "188"
+  }
+]

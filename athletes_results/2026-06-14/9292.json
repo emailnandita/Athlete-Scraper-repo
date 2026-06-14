@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "9292",
+    "name": "LALZUIDIKA",
+    "gender": "Male",
+    "dob": "1997-06-23",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=263",
+    "event_name": "2013 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Nov 24, 2013",
+    "rank": "2",
+    "category": "56 kg",
+    "bodyweight": "55.93",
+    "snatch": "93",
+    "clean_and_jerk": "114",
+    "total": "207"
+  },
+  {
+    "athlete_id": "9292",
+    "name": "LALZUIDIKA",
+    "gender": "Male",
+    "dob": "1997-06-23",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=236",
+    "event_name": "2013 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "Apr 07, 2013",
+    "rank": "26",
+    "category": "56 kg",
+    "bodyweight": "55.55",
+    "snatch": "91",
+    "clean_and_jerk": "105",
+    "total": "196"
+  }
+]

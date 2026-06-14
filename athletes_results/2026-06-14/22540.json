@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "22540",
+    "name": "KOHAR Komal",
+    "gender": "Female",
+    "dob": "2002-07-24",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=690",
+    "event_name": "Universal Weightlifting Cup",
+    "date": "Apr 27, 2026",
+    "rank": "2",
+    "category": "48 kg",
+    "bodyweight": "47.35",
+    "snatch": "78",
+    "clean_and_jerk": "98",
+    "total": "176"
+  }
+]

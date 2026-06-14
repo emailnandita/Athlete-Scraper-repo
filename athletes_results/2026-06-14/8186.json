@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "8186",
+    "name": "RAJWANT Kaur",
+    "gender": "Female",
+    "dob": "1987-03-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=240",
+    "event_name": "ASIAN CHAMPIONSHIPS",
+    "date": "Jun 20, 2013",
+    "rank": "11",
+    "category": "58 kg",
+    "bodyweight": "57.70",
+    "snatch": "75",
+    "clean_and_jerk": "95",
+    "total": "170"
+  },
+  {
+    "athlete_id": "8186",
+    "name": "RAJWANT Kaur",
+    "gender": "Female",
+    "dob": "1987-03-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=212",
+    "event_name": "2012 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Jun 04, 2012",
+    "rank": "1",
+    "category": "63 kg",
+    "bodyweight": "61.97",
+    "snatch": "76",
+    "clean_and_jerk": "96",
+    "total": "172"
+  },
+  {
+    "athlete_id": "8186",
+    "name": "RAJWANT Kaur",
+    "gender": "Female",
+    "dob": "1987-03-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=205",
+    "event_name": "2012 ASIAN CHAMPIONSHIPS",
+    "date": "Apr 22, 2012",
+    "rank": "9",
+    "category": "63 kg",
+    "bodyweight": "62.49",
+    "snatch": "72",
+    "clean_and_jerk": "103",
+    "total": "175"
+  }
+]

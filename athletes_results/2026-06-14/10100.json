@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "10100",
+    "name": "DEPAK Lather",
+    "gender": "Male",
+    "dob": "1996-01-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=263",
+    "event_name": "2013 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Nov 24, 2013",
+    "rank": "2",
+    "category": "50 kg",
+    "bodyweight": "49.61",
+    "snatch": "83",
+    "clean_and_jerk": "102",
+    "total": "185"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "15309",
+    "name": "TEJPAL Singh Sandhu",
+    "gender": "Male",
+    "dob": "1998-12-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=421",
+    "event_name": "2018 ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Apr 20, 2018",
+    "rank": "5",
+    "category": "+105 kg",
+    "bodyweight": "135.65",
+    "snatch": "135",
+    "clean_and_jerk": "169",
+    "total": "304"
+  },
+  {
+    "athlete_id": "15309",
+    "name": "TEJPAL Singh Sandhu",
+    "gender": "Male",
+    "dob": "1998-12-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=394",
+    "event_name": "COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Sep 03, 2017",
+    "rank": "3",
+    "category": "+105 kg",
+    "bodyweight": "123.22",
+    "snatch": "135",
+    "clean_and_jerk": "178",
+    "total": "313"
+  }
+]

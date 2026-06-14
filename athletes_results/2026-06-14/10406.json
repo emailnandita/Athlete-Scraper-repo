@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "10406",
+    "name": "CHAVAN Mohini Daryappa",
+    "gender": "Female",
+    "dob": "1999-05-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=338",
+    "event_name": "2015 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Oct 11, 2015",
+    "rank": "1",
+    "category": "48 kg",
+    "bodyweight": "47.40",
+    "snatch": "61",
+    "clean_and_jerk": "85",
+    "total": "146"
+  },
+  {
+    "athlete_id": "10406",
+    "name": "CHAVAN Mohini Daryappa",
+    "gender": "Female",
+    "dob": "1999-05-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=310",
+    "event_name": "17th ASIAN YOUTH CHAMPIONSHIPS",
+    "date": "Jan 01, 2015",
+    "rank": "1",
+    "category": "44 kg",
+    "bodyweight": "43.65",
+    "snatch": "58",
+    "clean_and_jerk": "73",
+    "total": "131"
+  },
+  {
+    "athlete_id": "10406",
+    "name": "CHAVAN Mohini Daryappa",
+    "gender": "Female",
+    "dob": "1999-05-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=274",
+    "event_name": "ASIAN YOUTH (YOG Qualification) CHAMPIONSHIP",
+    "date": "Mar 04, 2014",
+    "rank": "4",
+    "category": "44 kg",
+    "bodyweight": "43.47",
+    "snatch": "55",
+    "clean_and_jerk": "75",
+    "total": "130"
+  }
+]

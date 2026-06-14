@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "7604",
+    "name": "KAVITA KUMARI",
+    "gender": "Female",
+    "dob": "1987-08-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=180",
+    "event_name": "2011 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "3",
+    "category": "53 kg",
+    "bodyweight": "52.60",
+    "snatch": "66",
+    "clean_and_jerk": "87",
+    "total": "153"
+  }
+]

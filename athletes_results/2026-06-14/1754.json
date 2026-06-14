@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "1754",
+    "name": "YUMNAM Renu Bala Chanu",
+    "gender": "Female",
+    "dob": "1986-10-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=117",
+    "event_name": "COMMONWEALTH GAMES",
+    "date": "Oct 03, 2010",
+    "rank": "1",
+    "category": "58 kg",
+    "bodyweight": "57.93",
+    "snatch": "90",
+    "clean_and_jerk": "107",
+    "total": "197"
+  },
+  {
+    "athlete_id": "1754",
+    "name": "YUMNAM Renu Bala Chanu",
+    "gender": "Female",
+    "dob": "1986-10-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=11",
+    "event_name": "76th MEN's and 19th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Sep 14, 2007",
+    "rank": "17",
+    "category": "58 kg",
+    "bodyweight": "57.68",
+    "snatch": "86",
+    "clean_and_jerk": "105",
+    "total": "191"
+  },
+  {
+    "athlete_id": "1754",
+    "name": "YUMNAM Renu Bala Chanu",
+    "gender": "Female",
+    "dob": "1986-10-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=150",
+    "event_name": "28th MEN's and 8th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "May 30, 2002",
+    "rank": "-",
+    "category": "58 kg",
+    "bodyweight": "57.60",
+    "snatch": "77.5",
+    "clean_and_jerk": "---",
+    "total": "0"
+  }
+]

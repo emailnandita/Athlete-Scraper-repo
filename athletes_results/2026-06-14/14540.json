@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "14540",
+    "name": "TODKAR Shubham Tanaji",
+    "gender": "Male",
+    "dob": "1997-05-19",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=577",
+    "event_name": "2023 IWF World Championships",
+    "date": "Sep 04, 2023",
+    "rank": "22",
+    "category": "61 kg",
+    "bodyweight": "60.56",
+    "snatch": "119",
+    "clean_and_jerk": "150",
+    "total": "269"
+  },
+  {
+    "athlete_id": "14540",
+    "name": "TODKAR Shubham Tanaji",
+    "gender": "Male",
+    "dob": "1997-05-19",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=570",
+    "event_name": "2023 Asian Championships",
+    "date": "May 05, 2023",
+    "rank": "10",
+    "category": "61 kg",
+    "bodyweight": "60.71",
+    "snatch": "116",
+    "clean_and_jerk": "147",
+    "total": "263"
+  },
+  {
+    "athlete_id": "14540",
+    "name": "TODKAR Shubham Tanaji",
+    "gender": "Male",
+    "dob": "1997-05-19",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=391",
+    "event_name": "29th SUMMER UNIVERSIADE",
+    "date": "Aug 19, 2017",
+    "rank": "10",
+    "category": "56 kg",
+    "bodyweight": "55.70",
+    "snatch": "95",
+    "clean_and_jerk": "130",
+    "total": "225"
+  }
+]

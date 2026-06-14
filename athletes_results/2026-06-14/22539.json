@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "22539",
+    "name": "CHARU Pesi",
+    "gender": "Male",
+    "dob": "2002-09-30",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=690",
+    "event_name": "Universal Weightlifting Cup",
+    "date": "Apr 27, 2026",
+    "rank": "1",
+    "category": "65 kg",
+    "bodyweight": "64.65",
+    "snatch": "127",
+    "clean_and_jerk": "162",
+    "total": "289"
+  }
+]

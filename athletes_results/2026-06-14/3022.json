@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "3022",
+    "name": "SAINI Harjot Singh",
+    "gender": "Male",
+    "dob": "1992-01-09",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=23",
+    "event_name": "2009 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "May 19, 2009",
+    "rank": "14",
+    "category": "94 kg",
+    "bodyweight": "92.26",
+    "snatch": "106",
+    "clean_and_jerk": "130",
+    "total": "236"
+  }
+]

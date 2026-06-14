@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "20988",
+    "name": "BHARGAVI B",
+    "gender": "Female",
+    "dob": "2009-02-19",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=600",
+    "event_name": "IWF World Youth Championships",
+    "date": "May 22, 2024",
+    "rank": "10",
+    "category": "49 kg",
+    "bodyweight": "49.00",
+    "snatch": "65",
+    "clean_and_jerk": "83",
+    "total": "148"
+  }
+]
