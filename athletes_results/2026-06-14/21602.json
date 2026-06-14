@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "21602",
+    "name": "TANI Bengia",
+    "gender": "Male",
+    "dob": "2004-02-26",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=612",
+    "event_name": "Asian Junior Championships",
+    "date": "Dec 19, 2024",
+    "rank": "4",
+    "category": "67 kg",
+    "bodyweight": "66.95",
+    "snatch": "123",
+    "clean_and_jerk": "162",
+    "total": "285"
+  }
+]

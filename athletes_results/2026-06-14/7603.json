@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "7603",
+    "name": "HIDAM Shaya Devi",
+    "gender": "Female",
+    "dob": "1980-01-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=180",
+    "event_name": "2011 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "1",
+    "category": "53 kg",
+    "bodyweight": "52.66",
+    "snatch": "74",
+    "clean_and_jerk": "93",
+    "total": "167"
+  },
+  {
+    "athlete_id": "7603",
+    "name": "HIDAM Shaya Devi",
+    "gender": "Female",
+    "dob": "1980-01-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=18",
+    "event_name": "39th MEN'S and 20th WOMEN'S ASIAN CHAMPIONSHIPS",
+    "date": "Apr 26, 2008",
+    "rank": "9",
+    "category": "53 kg",
+    "bodyweight": "52.85",
+    "snatch": "77",
+    "clean_and_jerk": "97",
+    "total": "174"
+  },
+  {
+    "athlete_id": "7603",
+    "name": "HIDAM Shaya Devi",
+    "gender": "Female",
+    "dob": "1980-01-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=11",
+    "event_name": "76th MEN's and 19th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Sep 14, 2007",
+    "rank": "24",
+    "category": "53 kg",
+    "bodyweight": "52.56",
+    "snatch": "75",
+    "clean_and_jerk": "95",
+    "total": "170"
+  }
+]

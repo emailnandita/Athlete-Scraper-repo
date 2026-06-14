@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "22336",
+    "name": "DOIMARI Hemanta",
+    "gender": "Male",
+    "dob": "2007-01-07",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=660",
+    "event_name": "Commonwealth Junior Championships",
+    "date": "Aug 24, 2025",
+    "rank": "1",
+    "category": "71 kg",
+    "bodyweight": "70.33",
+    "snatch": "118",
+    "clean_and_jerk": "146",
+    "total": "264"
+  }
+]

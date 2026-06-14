@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "6209",
+    "name": "KUMAR S. Deva",
+    "gender": "Male",
+    "dob": "1982-05-25",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=124",
+    "event_name": "IWF CONTINENTAL CLUBS GRAND PRIX",
+    "date": "Dec 11, 2010",
+    "rank": "2",
+    "category": "62 kg",
+    "bodyweight": "61.94",
+    "snatch": "116",
+    "clean_and_jerk": "135",
+    "total": "251"
+  }
+]

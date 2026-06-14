@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "5076",
+    "name": "KUMARI Pratima",
+    "gender": "Female",
+    "dob": "1976-01-30",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=94",
+    "event_name": "73rd MEN's and 16th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Nov 14, 2003",
+    "rank": "12",
+    "category": "63 kg",
+    "bodyweight": "62.56",
+    "snatch": "95",
+    "clean_and_jerk": "115",
+    "total": "210"
+  },
+  {
+    "athlete_id": "5076",
+    "name": "KUMARI Pratima",
+    "gender": "Female",
+    "dob": "1976-01-30",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=89",
+    "event_name": "71st MEN's and 14th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Nov 04, 2001",
+    "rank": "7",
+    "category": "63 kg",
+    "bodyweight": "62.68",
+    "snatch": "92.5",
+    "clean_and_jerk": "117.5",
+    "total": "210"
+  }
+]

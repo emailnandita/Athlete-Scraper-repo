@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "21177",
+    "name": "LAPUNG Sankar",
+    "gender": "Male",
+    "dob": "2004-09-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=612",
+    "event_name": "Asian Junior Championships",
+    "date": "Dec 19, 2024",
+    "rank": "3",
+    "category": "61 kg",
+    "bodyweight": "61.00",
+    "snatch": "116",
+    "clean_and_jerk": "146",
+    "total": "262"
+  },
+  {
+    "athlete_id": "21177",
+    "name": "LAPUNG Sankar",
+    "gender": "Male",
+    "dob": "2004-09-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=610",
+    "event_name": "2024 IWF World Junior Championships",
+    "date": "Sep 19, 2024",
+    "rank": "12",
+    "category": "61 kg",
+    "bodyweight": "60.36",
+    "snatch": "113",
+    "clean_and_jerk": "142",
+    "total": "255"
+  },
+  {
+    "athlete_id": "21177",
+    "name": "LAPUNG Sankar",
+    "gender": "Male",
+    "dob": "2004-09-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=575",
+    "event_name": "2023 Asian Junior Championships",
+    "date": "Jul 28, 2023",
+    "rank": "3",
+    "category": "61 kg",
+    "bodyweight": "60.95",
+    "snatch": "114",
+    "clean_and_jerk": "142",
+    "total": "256"
+  }
+]

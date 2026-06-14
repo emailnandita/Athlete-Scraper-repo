@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "21861",
+    "name": "SINGH Dilbag",
+    "gender": "Male",
+    "dob": "2004-10-13",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=661",
+    "event_name": "2025 IWF World Championships",
+    "date": "Oct 02, 2025",
+    "rank": "17",
+    "category": "94 kg",
+    "bodyweight": "93.95",
+    "snatch": "154",
+    "clean_and_jerk": "180",
+    "total": "334"
+  },
+  {
+    "athlete_id": "21861",
+    "name": "SINGH Dilbag",
+    "gender": "Male",
+    "dob": "2004-10-13",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=658",
+    "event_name": "Commonwealth Championships",
+    "date": "Aug 24, 2025",
+    "rank": "2",
+    "category": "94 kg",
+    "bodyweight": "93.73",
+    "snatch": "153",
+    "clean_and_jerk": "189",
+    "total": "342"
+  },
+  {
+    "athlete_id": "21861",
+    "name": "SINGH Dilbag",
+    "gender": "Male",
+    "dob": "2004-10-13",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=621",
+    "event_name": "Asian Championships",
+    "date": "May 09, 2025",
+    "rank": "9",
+    "category": "96 kg",
+    "bodyweight": "94.78",
+    "snatch": "147",
+    "clean_and_jerk": "192",
+    "total": "339"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "2725",
+    "name": "SUMAN",
+    "gender": "Female",
+    "dob": "1993-07-05",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=23",
+    "event_name": "2009 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "May 19, 2009",
+    "rank": "10",
+    "category": "44 kg",
+    "bodyweight": "42.36",
+    "snatch": "33",
+    "clean_and_jerk": "43",
+    "total": "76"
+  }
+]

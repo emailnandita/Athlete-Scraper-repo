@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "20811",
+    "name": "SONOWAL Ditimoni",
+    "gender": "Female",
+    "dob": "2003-04-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=616",
+    "event_name": "2024 IWF World Championships",
+    "date": "Dec 06, 2024",
+    "rank": "23",
+    "category": "64 kg",
+    "bodyweight": "63.40",
+    "snatch": "89",
+    "clean_and_jerk": "115",
+    "total": "204"
+  },
+  {
+    "athlete_id": "20811",
+    "name": "SONOWAL Ditimoni",
+    "gender": "Female",
+    "dob": "2003-04-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=592",
+    "event_name": "Asian Championships",
+    "date": "Feb 03, 2024",
+    "rank": "4",
+    "category": "64 kg",
+    "bodyweight": "63.70",
+    "snatch": "83",
+    "clean_and_jerk": "111",
+    "total": "194"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "7161",
+    "name": "KATILA Venkata Lakshmi",
+    "gender": "Female",
+    "dob": "1993-05-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=212",
+    "event_name": "2012 COMMONWEALTH CHAMPIONSHIPS",
+    "date": "Jun 04, 2012",
+    "rank": "3",
+    "category": "53 kg",
+    "bodyweight": "52.78",
+    "snatch": "66",
+    "clean_and_jerk": "85",
+    "total": "151"
+  },
+  {
+    "athlete_id": "7161",
+    "name": "KATILA Venkata Lakshmi",
+    "gender": "Female",
+    "dob": "1993-05-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=213",
+    "event_name": "2012 COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Jun 04, 2012",
+    "rank": "1",
+    "category": "53 kg",
+    "bodyweight": "52.78",
+    "snatch": "66",
+    "clean_and_jerk": "85",
+    "total": "151"
+  },
+  {
+    "athlete_id": "7161",
+    "name": "KATILA Venkata Lakshmi",
+    "gender": "Female",
+    "dob": "1993-05-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=160",
+    "event_name": "2011 IWF JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 29, 2011",
+    "rank": "15",
+    "category": "53 kg",
+    "bodyweight": "52.53",
+    "snatch": "63",
+    "clean_and_jerk": "85",
+    "total": "148"
+  }
+]

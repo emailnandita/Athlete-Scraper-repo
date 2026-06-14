@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "9565",
+    "name": "FAKADE Meera Parshram",
+    "gender": "Female",
+    "dob": "1994-04-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=271",
+    "event_name": "ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Jul 01, 2013",
+    "rank": "6",
+    "category": "48 kg",
+    "bodyweight": "47.85",
+    "snatch": "63",
+    "clean_and_jerk": "83",
+    "total": "146"
+  },
+  {
+    "athlete_id": "9565",
+    "name": "FAKADE Meera Parshram",
+    "gender": "Female",
+    "dob": "1994-04-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=239",
+    "event_name": "2013 IWF JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "May 03, 2013",
+    "rank": "11",
+    "category": "48 kg",
+    "bodyweight": "47.60",
+    "snatch": "63",
+    "clean_and_jerk": "80",
+    "total": "143"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "8175",
+    "name": "JASVANT Singh",
+    "gender": "Male",
+    "dob": "1990-01-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=205",
+    "event_name": "2012 ASIAN CHAMPIONSHIPS",
+    "date": "Apr 22, 2012",
+    "rank": "19",
+    "category": "85 kg",
+    "bodyweight": "84.74",
+    "snatch": "135",
+    "clean_and_jerk": "160",
+    "total": "295"
+  },
+  {
+    "athlete_id": "8175",
+    "name": "JASVANT Singh",
+    "gender": "Male",
+    "dob": "1990-01-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=113",
+    "event_name": "ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Apr 12, 2010",
+    "rank": "6",
+    "category": "85 kg",
+    "bodyweight": "77.25",
+    "snatch": "128",
+    "clean_and_jerk": "145",
+    "total": "273"
+  }
+]

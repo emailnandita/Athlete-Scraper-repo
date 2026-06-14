@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "3001",
+    "name": "VISHE Minal Vilas",
+    "gender": "Female",
+    "dob": "1992-03-08",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=124",
+    "event_name": "IWF CONTINENTAL CLUBS GRAND PRIX",
+    "date": "Dec 11, 2010",
+    "rank": "2",
+    "category": "75 kg",
+    "bodyweight": "70.74",
+    "snatch": "75",
+    "clean_and_jerk": "90",
+    "total": "165"
+  },
+  {
+    "athlete_id": "3001",
+    "name": "VISHE Minal Vilas",
+    "gender": "Female",
+    "dob": "1992-03-08",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=23",
+    "event_name": "2009 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "May 19, 2009",
+    "rank": "11",
+    "category": "69 kg",
+    "bodyweight": "65.84",
+    "snatch": "62",
+    "clean_and_jerk": "71",
+    "total": "133"
+  }
+]

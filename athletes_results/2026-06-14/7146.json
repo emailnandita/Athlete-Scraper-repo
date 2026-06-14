@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "7146",
+    "name": "TAJO Menu",
+    "gender": "Female",
+    "dob": "1994-03-04",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=222",
+    "event_name": "ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Nov 10, 2012",
+    "rank": "9",
+    "category": "53 kg",
+    "bodyweight": "52.65",
+    "snatch": "62",
+    "clean_and_jerk": "87",
+    "total": "149"
+  },
+  {
+    "athlete_id": "7146",
+    "name": "TAJO Menu",
+    "gender": "Female",
+    "dob": "1994-03-04",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=160",
+    "event_name": "2011 IWF JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 29, 2011",
+    "rank": "17",
+    "category": "48 kg",
+    "bodyweight": "47.91",
+    "snatch": "59",
+    "clean_and_jerk": "76",
+    "total": "135"
+  }
+]

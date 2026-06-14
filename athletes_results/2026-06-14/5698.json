@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "5698",
+    "name": "ROMI Devi",
+    "gender": "Female",
+    "dob": "1980-01-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=154",
+    "event_name": "26th MEN's and 6th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jul 02, 2000",
+    "rank": "2",
+    "category": "75 kg",
+    "bodyweight": "74.59",
+    "snatch": "90",
+    "clean_and_jerk": "110",
+    "total": "200"
+  },
+  {
+    "athlete_id": "5698",
+    "name": "ROMI Devi",
+    "gender": "Female",
+    "dob": "1980-01-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=99",
+    "event_name": "70th MEN's and 13th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Nov 21, 1999",
+    "rank": "19",
+    "category": "75 kg",
+    "bodyweight": "74.63",
+    "snatch": "90",
+    "clean_and_jerk": "110",
+    "total": "200"
+  },
+  {
+    "athlete_id": "5698",
+    "name": "ROMI Devi",
+    "gender": "Female",
+    "dob": "1980-01-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=156",
+    "event_name": "25th MEN's and 5th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jul 03, 1999",
+    "rank": "4",
+    "category": "75 kg",
+    "bodyweight": "74.00",
+    "snatch": "92.5",
+    "clean_and_jerk": "120",
+    "total": "212.5"
+  }
+]

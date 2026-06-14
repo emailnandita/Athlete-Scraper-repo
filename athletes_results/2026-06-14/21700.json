@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "21700",
+    "name": "BHARGAVI Bellana",
+    "gender": "Female",
+    "dob": "2009-02-19",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=685",
+    "event_name": "Commonwealth Youth Championships",
+    "date": "Apr 27, 2026",
+    "rank": "1",
+    "category": "53 kg",
+    "bodyweight": "52.25",
+    "snatch": "78",
+    "clean_and_jerk": "102",
+    "total": "180"
+  },
+  {
+    "athlete_id": "21700",
+    "name": "BHARGAVI Bellana",
+    "gender": "Female",
+    "dob": "2009-02-19",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=686",
+    "event_name": "Commonwealth Junior Championships",
+    "date": "Apr 27, 2026",
+    "rank": "2",
+    "category": "53 kg",
+    "bodyweight": "52.25",
+    "snatch": "78",
+    "clean_and_jerk": "102",
+    "total": "180"
+  },
+  {
+    "athlete_id": "21700",
+    "name": "BHARGAVI Bellana",
+    "gender": "Female",
+    "dob": "2009-02-19",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=617",
+    "event_name": "2025 IWF World Youth Championships",
+    "date": "Apr 30, 2025",
+    "rank": "6",
+    "category": "49 kg",
+    "bodyweight": "48.75",
+    "snatch": "68",
+    "clean_and_jerk": "88",
+    "total": "156"
+  }
+]

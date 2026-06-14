@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "22342",
+    "name": "DAS Hrundananda",
+    "gender": "Male",
+    "dob": "2007-06-09",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=660",
+    "event_name": "Commonwealth Junior Championships",
+    "date": "Aug 24, 2025",
+    "rank": "2",
+    "category": "88 kg",
+    "bodyweight": "85.29",
+    "snatch": "139",
+    "clean_and_jerk": "178",
+    "total": "317"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "5502",
+    "name": "ARYA Sunny",
+    "gender": "Male",
+    "dob": "1994-02-16",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=93",
+    "event_name": "36th MEN's and 16th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 11, 2010",
+    "rank": "11",
+    "category": "94 kg",
+    "bodyweight": "85.10",
+    "snatch": "110",
+    "clean_and_jerk": "137",
+    "total": "247"
+  }
+]

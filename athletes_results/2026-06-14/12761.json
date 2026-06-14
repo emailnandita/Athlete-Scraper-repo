@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "12761",
+    "name": "BANGARU Usha",
+    "gender": "Female",
+    "dob": "1991-03-30",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=333",
+    "event_name": "ASIAN CHAMPIONSHIPS",
+    "date": "Sep 06, 2015",
+    "rank": "-",
+    "category": "48 kg",
+    "bodyweight": "47.73",
+    "snatch": "---",
+    "clean_and_jerk": "85",
+    "total": "0"
+  },
+  {
+    "athlete_id": "12761",
+    "name": "BANGARU Usha",
+    "gender": "Female",
+    "dob": "1991-03-30",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=55",
+    "event_name": "2009 COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Oct 19, 2009",
+    "rank": "1",
+    "category": "48 kg",
+    "bodyweight": "47.30",
+    "snatch": "66",
+    "clean_and_jerk": "86",
+    "total": "152"
+  }
+]

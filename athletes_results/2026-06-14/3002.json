@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "3002",
+    "name": "DALJIT Kaur",
+    "gender": "Female",
+    "dob": "1992-08-31",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=23",
+    "event_name": "2009 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "May 19, 2009",
+    "rank": "13",
+    "category": "69 kg",
+    "bodyweight": "66.92",
+    "snatch": "61",
+    "clean_and_jerk": "71",
+    "total": "132"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "14018",
+    "name": "ZAKHUMA",
+    "gender": "Male",
+    "dob": "2001-04-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=393",
+    "event_name": "COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Sep 03, 2017",
+    "rank": "2",
+    "category": "56 kg",
+    "bodyweight": "55.54",
+    "snatch": "95",
+    "clean_and_jerk": "120",
+    "total": "215"
+  },
+  {
+    "athlete_id": "14018",
+    "name": "ZAKHUMA",
+    "gender": "Male",
+    "dob": "2001-04-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=378",
+    "event_name": "2017 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "Apr 03, 2017",
+    "rank": "14",
+    "category": "56 kg",
+    "bodyweight": "55.71",
+    "snatch": "94",
+    "clean_and_jerk": "118",
+    "total": "212"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "11892",
+    "name": "HANAGANDI Rupa Mahadev",
+    "gender": "Female",
+    "dob": "1998-05-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=421",
+    "event_name": "2018 ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Apr 20, 2018",
+    "rank": "2",
+    "category": "58 kg",
+    "bodyweight": "57.60",
+    "snatch": "79",
+    "clean_and_jerk": "100",
+    "total": "179"
+  },
+  {
+    "athlete_id": "11892",
+    "name": "HANAGANDI Rupa Mahadev",
+    "gender": "Female",
+    "dob": "1998-05-22",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=312",
+    "event_name": "2015 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "Apr 07, 2015",
+    "rank": "6",
+    "category": "53 kg",
+    "bodyweight": "52.74",
+    "snatch": "68",
+    "clean_and_jerk": "89",
+    "total": "157"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "7614",
+    "name": "GOGOI Sourav",
+    "gender": "Male",
+    "dob": "1995-03-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=178",
+    "event_name": "2011 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "2",
+    "category": "69 kg",
+    "bodyweight": "68.60",
+    "snatch": "97",
+    "clean_and_jerk": "126",
+    "total": "223"
+  }
+]

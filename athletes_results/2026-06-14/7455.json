@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "7455",
+    "name": "KHANGEMBAM Bidyabati Chanu",
+    "gender": "Female",
+    "dob": "1994-04-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=222",
+    "event_name": "ASIAN JUNIOR CHAMPIONSHIPS",
+    "date": "Nov 10, 2012",
+    "rank": "8",
+    "category": "53 kg",
+    "bodyweight": "52.95",
+    "snatch": "67",
+    "clean_and_jerk": "83",
+    "total": "150"
+  },
+  {
+    "athlete_id": "7455",
+    "name": "KHANGEMBAM Bidyabati Chanu",
+    "gender": "Female",
+    "dob": "1994-04-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=178",
+    "event_name": "2011 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "2",
+    "category": "53 kg",
+    "bodyweight": "52.76",
+    "snatch": "67",
+    "clean_and_jerk": "81",
+    "total": "148"
+  },
+  {
+    "athlete_id": "7455",
+    "name": "KHANGEMBAM Bidyabati Chanu",
+    "gender": "Female",
+    "dob": "1994-04-02",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=173",
+    "event_name": "ASIAN YOUTH CHAMPIONSHIPS",
+    "date": "Sep 05, 2011",
+    "rank": "4",
+    "category": "53 kg",
+    "bodyweight": "52.65",
+    "snatch": "65",
+    "clean_and_jerk": "85",
+    "total": "150"
+  }
+]

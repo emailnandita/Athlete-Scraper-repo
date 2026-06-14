@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "9212",
+    "name": "DALAL Poonam",
+    "gender": "Female",
+    "dob": "1996-02-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=263",
+    "event_name": "2013 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Nov 24, 2013",
+    "rank": "3",
+    "category": "48 kg",
+    "bodyweight": "47.25",
+    "snatch": "57",
+    "clean_and_jerk": "71",
+    "total": "128"
+  },
+  {
+    "athlete_id": "9212",
+    "name": "DALAL Poonam",
+    "gender": "Female",
+    "dob": "1996-02-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=236",
+    "event_name": "2013 IWF YOUTH WORLD CHAMPIONSHIPS",
+    "date": "Apr 07, 2013",
+    "rank": "15",
+    "category": "44 kg",
+    "bodyweight": "43.74",
+    "snatch": "53",
+    "clean_and_jerk": "69",
+    "total": "122"
+  }
+]

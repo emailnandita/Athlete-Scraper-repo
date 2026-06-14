@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "7477",
+    "name": "LOITONGBAM Ajit Singh",
+    "gender": "Male",
+    "dob": "1995-12-30",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=178",
+    "event_name": "2011 COMMONWEALTH YOUTH CHAMPIONSHIPS",
+    "date": "Oct 10, 2011",
+    "rank": "2",
+    "category": "50 kg",
+    "bodyweight": "49.52",
+    "snatch": "75",
+    "clean_and_jerk": "90",
+    "total": "165"
+  },
+  {
+    "athlete_id": "7477",
+    "name": "LOITONGBAM Ajit Singh",
+    "gender": "Male",
+    "dob": "1995-12-30",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=173",
+    "event_name": "ASIAN YOUTH CHAMPIONSHIPS",
+    "date": "Sep 05, 2011",
+    "rank": "7",
+    "category": "50 kg",
+    "bodyweight": "49.45",
+    "snatch": "70",
+    "clean_and_jerk": "88",
+    "total": "158"
+  }
+]

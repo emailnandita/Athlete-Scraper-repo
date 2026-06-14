@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "2230",
+    "name": "KAJLAS Bandu Pujari",
+    "gender": "Male",
+    "dob": "1980-08-24",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=43",
+    "event_name": "21st ASIAN SENIOR WOMEN'S 40th ASIAN SENIOR MEN'S CHAMPIONSHIPS",
+    "date": "May 09, 2009",
+    "rank": "9",
+    "category": "62 kg",
+    "bodyweight": "61.90",
+    "snatch": "114",
+    "clean_and_jerk": "145",
+    "total": "259"
+  },
+  {
+    "athlete_id": "2230",
+    "name": "KAJLAS Bandu Pujari",
+    "gender": "Male",
+    "dob": "1980-08-24",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=18",
+    "event_name": "39th MEN'S and 20th WOMEN'S ASIAN CHAMPIONSHIPS",
+    "date": "Apr 26, 2008",
+    "rank": "15",
+    "category": "62 kg",
+    "bodyweight": "61.76",
+    "snatch": "110",
+    "clean_and_jerk": "143",
+    "total": "253"
+  }
+]

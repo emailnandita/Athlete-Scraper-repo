@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "22365",
+    "name": "GOGOI Bhavna",
+    "gender": "Female",
+    "dob": "2008-07-17",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=659",
+    "event_name": "Commonwealth Youth Championships",
+    "date": "Aug 24, 2025",
+    "rank": "1",
+    "category": "58 kg",
+    "bodyweight": "57.45",
+    "snatch": "69",
+    "clean_and_jerk": "93",
+    "total": "162"
+  }
+]

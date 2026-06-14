@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "422",
+    "name": "PUJARI Sailaja",
+    "gender": "Female",
+    "dob": "1982-06-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=18",
+    "event_name": "39th MEN'S and 20th WOMEN'S ASIAN CHAMPIONSHIPS",
+    "date": "Apr 26, 2008",
+    "rank": "5",
+    "category": "75 kg",
+    "bodyweight": "73.74",
+    "snatch": "95",
+    "clean_and_jerk": "123",
+    "total": "218"
+  },
+  {
+    "athlete_id": "422",
+    "name": "PUJARI Sailaja",
+    "gender": "Female",
+    "dob": "1982-06-12",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=3",
+    "event_name": "74th MEN's and 17th WOMEN's CENTENNIAL WORLD CHAMPIONSHIPS",
+    "date": "Nov 08, 2005",
+    "rank": "9",
+    "category": "75 kg",
+    "bodyweight": "73.92",
+    "snatch": "97",
+    "clean_and_jerk": "125",
+    "total": "222.0"
+  }
+]

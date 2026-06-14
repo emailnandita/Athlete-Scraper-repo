@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "21964",
+    "name": "GOGOI Aisangfa",
+    "gender": "Female",
+    "dob": "2007-12-16",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=686",
+    "event_name": "Commonwealth Junior Championships",
+    "date": "Apr 27, 2026",
+    "rank": "1",
+    "category": "58 kg",
+    "bodyweight": "55.65",
+    "snatch": "79",
+    "clean_and_jerk": "106",
+    "total": "185"
+  },
+  {
+    "athlete_id": "21964",
+    "name": "GOGOI Aisangfa",
+    "gender": "Female",
+    "dob": "2007-12-16",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=652",
+    "event_name": "Asian Junior Championships",
+    "date": "Jul 04, 2025",
+    "rank": "4",
+    "category": "53 kg",
+    "bodyweight": "52.00",
+    "snatch": "79",
+    "clean_and_jerk": "97",
+    "total": "176"
+  }
+]

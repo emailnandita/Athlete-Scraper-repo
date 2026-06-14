@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "15217",
+    "name": "JACOB Vanlaltluanga",
+    "gender": "Male",
+    "dob": "2002-02-17",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=468",
+    "event_name": "2019 Commonwealth Junior Championships",
+    "date": "Jul 09, 2019",
+    "rank": "1",
+    "category": "61 kg",
+    "bodyweight": "60.80",
+    "snatch": "112",
+    "clean_and_jerk": "130",
+    "total": "242"
+  },
+  {
+    "athlete_id": "15217",
+    "name": "JACOB Vanlaltluanga",
+    "gender": "Male",
+    "dob": "2002-02-17",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=469",
+    "event_name": "2019 Commonwealth Youth Championships",
+    "date": "Jul 09, 2019",
+    "rank": "1",
+    "category": "61 kg",
+    "bodyweight": "60.80",
+    "snatch": "112",
+    "clean_and_jerk": "130",
+    "total": "242"
+  },
+  {
+    "athlete_id": "15217",
+    "name": "JACOB Vanlaltluanga",
+    "gender": "Male",
+    "dob": "2002-02-17",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=420",
+    "event_name": "2018 ASIAN YOUTH CHAMPIONSHIPS",
+    "date": "Apr 20, 2018",
+    "rank": "3",
+    "category": "62 kg",
+    "bodyweight": "61.60",
+    "snatch": "108",
+    "clean_and_jerk": "131",
+    "total": "239"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "3221",
+    "name": "GAIKWAD Diksha Pradeep",
+    "gender": "Female",
+    "dob": "1990-07-06",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=55",
+    "event_name": "2009 COMMONWEALTH JUNIOR CHAMPIONSHIPS",
+    "date": "Oct 19, 2009",
+    "rank": "2",
+    "category": "48 kg",
+    "bodyweight": "47.86",
+    "snatch": "61",
+    "clean_and_jerk": "78",
+    "total": "139"
+  },
+  {
+    "athlete_id": "3221",
+    "name": "GAIKWAD Diksha Pradeep",
+    "gender": "Female",
+    "dob": "1990-07-06",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=25",
+    "event_name": "35th MEN's and 15th WOMEN's JUNIOR WORLD CHAMPIONSHIPS",
+    "date": "Jun 14, 2009",
+    "rank": "8",
+    "category": "48 kg",
+    "bodyweight": "47.84",
+    "snatch": "64",
+    "clean_and_jerk": "75",
+    "total": "139"
+  }
+]

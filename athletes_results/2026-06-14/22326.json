@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "22326",
+    "name": "KAUR Harmanpreet",
+    "gender": "Female",
+    "dob": "2001-10-09",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/?event_id=658",
+    "event_name": "Commonwealth Championships",
+    "date": "Aug 24, 2025",
+    "rank": "8",
+    "category": "77 kg",
+    "bodyweight": "76.59",
+    "snatch": "89",
+    "clean_and_jerk": "116",
+    "total": "205"
+  }
+]

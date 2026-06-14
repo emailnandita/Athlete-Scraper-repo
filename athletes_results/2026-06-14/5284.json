@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "5284",
+    "name": "SRINIVASA Rao",
+    "gender": "Male",
+    "dob": "1950-01-01",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=94",
+    "event_name": "73rd MEN's and 16th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Nov 14, 2003",
+    "rank": "24",
+    "category": "56 kg",
+    "bodyweight": "55.95",
+    "snatch": "105",
+    "clean_and_jerk": "130",
+    "total": "235"
+  }
+]

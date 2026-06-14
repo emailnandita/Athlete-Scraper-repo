@@ -1,0 +1,34 @@
+[
+  {
+    "athlete_id": "5067",
+    "name": "SUNAINA Anand",
+    "gender": "Female",
+    "dob": "1980-04-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=94",
+    "event_name": "73rd MEN's and 16th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Nov 14, 2003",
+    "rank": "18",
+    "category": "63 kg",
+    "bodyweight": "58.33",
+    "snatch": "90",
+    "clean_and_jerk": "112.5",
+    "total": "202.5"
+  },
+  {
+    "athlete_id": "5067",
+    "name": "SUNAINA Anand",
+    "gender": "Female",
+    "dob": "1980-04-20",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=89",
+    "event_name": "71st MEN's and 14th WOMEN's WORLD CHAMPIONSHIPS",
+    "date": "Nov 04, 2001",
+    "rank": "4",
+    "category": "58 kg",
+    "bodyweight": "57.46",
+    "snatch": "85",
+    "clean_and_jerk": "115",
+    "total": "200"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "15975",
+    "name": "ADAK Sukarna",
+    "gender": "Female",
+    "dob": "2003-01-10",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=468",
+    "event_name": "2019 Commonwealth Junior Championships",
+    "date": "Jul 09, 2019",
+    "rank": "1",
+    "category": "59 kg",
+    "bodyweight": "57.00",
+    "snatch": "77",
+    "clean_and_jerk": "101",
+    "total": "178"
+  },
+  {
+    "athlete_id": "15975",
+    "name": "ADAK Sukarna",
+    "gender": "Female",
+    "dob": "2003-01-10",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=469",
+    "event_name": "2019 Commonwealth Youth Championships",
+    "date": "Jul 09, 2019",
+    "rank": "1",
+    "category": "59 kg",
+    "bodyweight": "57.00",
+    "snatch": "77",
+    "clean_and_jerk": "101",
+    "total": "178"
+  },
+  {
+    "athlete_id": "15975",
+    "name": "ADAK Sukarna",
+    "gender": "Female",
+    "dob": "2003-01-10",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-2018-2025/?event_id=444",
+    "event_name": "5th International Qatar Cup",
+    "date": "Dec 19, 2018",
+    "rank": "9",
+    "category": "59 kg",
+    "bodyweight": "58.30",
+    "snatch": "80",
+    "clean_and_jerk": "100",
+    "total": "180"
+  }
+]

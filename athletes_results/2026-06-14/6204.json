@@ -1,0 +1,50 @@
+[
+  {
+    "athlete_id": "6204",
+    "name": "MALI Ganesh Chandrakant",
+    "gender": "Male",
+    "dob": "1993-05-14",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=298",
+    "event_name": "2014 IWF WORLD CHAMPIONSHIPS",
+    "date": "Nov 04, 2014",
+    "rank": "25",
+    "category": "56 kg",
+    "bodyweight": "55.86",
+    "snatch": "108",
+    "clean_and_jerk": "130",
+    "total": "238"
+  },
+  {
+    "athlete_id": "6204",
+    "name": "MALI Ganesh Chandrakant",
+    "gender": "Male",
+    "dob": "1993-05-14",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=291",
+    "event_name": "2014 COMMONWEALTH GAMES",
+    "date": "Jul 23, 2014",
+    "rank": "3",
+    "category": "56 kg",
+    "bodyweight": "55.81",
+    "snatch": "111",
+    "clean_and_jerk": "133",
+    "total": "244"
+  },
+  {
+    "athlete_id": "6204",
+    "name": "MALI Ganesh Chandrakant",
+    "gender": "Male",
+    "dob": "1993-05-14",
+    "country_code": "IND",
+    "event_url": "https://iwf.sport/results/results-by-events/results-by-events-upto2018/?event_id=124",
+    "event_name": "IWF CONTINENTAL CLUBS GRAND PRIX",
+    "date": "Dec 11, 2010",
+    "rank": "10",
+    "category": "56 kg",
+    "bodyweight": "55.84",
+    "snatch": "90",
+    "clean_and_jerk": "112",
+    "total": "202"
+  }
+]
